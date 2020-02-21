@@ -1,5 +1,8 @@
 # Standards and standard-compliant libraries
 
+
+![Standards and Libraries](standards.png)
+
 - Verifiable Credentials
   - Spec: https://w3c.github.io/vc-data-model/ 
   - Code (for creating and signing): https://github.com/digitalbazaar/vc-js
