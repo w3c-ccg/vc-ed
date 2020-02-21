@@ -1,7 +1,6 @@
 # Standards and standard-compliant libraries
 
-
-![Standards and Libraries](standards.png)
+<img src="standards.png" width="800" alt="Standards and Libraries">
 
 - Verifiable Credentials
   - Spec: https://w3c.github.io/vc-data-model/ 
