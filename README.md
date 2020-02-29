@@ -20,4 +20,3 @@ Chat:
 - Web: http://irc.w3.org/?channels=ccg
 - IRC: irc://irc.w3.org:6665/#ccg
 
-[Add to your calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=aGF1cHBmZzJ0OXVzbGtoMnQwOGcwams1YzBfMjAyMDAyMTBUMTYwMDAwWiBraW1kaGFtaWx0b25AbQ&tmsrc=kimdhamilton%40gmail.com&scp=ALL)
