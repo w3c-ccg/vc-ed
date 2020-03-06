@@ -20,3 +20,5 @@ Chat:
 - Web: http://irc.w3.org/?channels=ccg
 - IRC: irc://irc.w3.org:6665/#ccg
 
+## Charter
+The [Verifiable Credentials for Education Task Force Charter](https://docs.google.com/document/d/1vjrvwmvHOYmJd_Dqwk_TfGjKLTiTe9fzX9J4QqCUcf0/edit#)
