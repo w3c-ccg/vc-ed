@@ -22,12 +22,12 @@ Chat:
 
 ## Meetings
 
-| Date | Topic |
-|------|-------|
+| Date        | Topic |
+|-------------|-------|
 | 27 Apr 2020 | Cryptographic Accumulators  |
 | 20 Apr 2020 | [ILR Wrapper](https://w3c-ccg.github.io/meetings/2020-04-20-vc-education/) |
 | 13 Apr 2020 | [DID Support in Open Badges](https://w3c-ccg.github.io/meetings/2020-04-13-vc-education/) |
-| 23 Mae 2020 | [LD-JWS2020 signature suite and EDU demos](https://w3c-ccg.github.io/meetings/2020-03-23-vc-education/) | 
+| 23 Mar 2020 | [LD-JWS2020 signature suite and EDU demos](https://w3c-ccg.github.io/meetings/2020-03-23-vc-education/) | 
 | 02 Mar 2020 | [European Credentialing Landscape](https://w3c-ccg.github.io/meetings/2020-03-02-vc-education/) | 
 | 24 Feb 2020 | [US EDU Data Standards](https://w3c-ccg.github.io/meetings/2020-02-24-vc-education/) |
 | 10 Feb 2020 | [Survey of Emerging Standards (focus DID web)](https://w3c-ccg.github.io/meetings/2020-02-10-vc-education/) |
