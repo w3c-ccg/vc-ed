@@ -20,5 +20,19 @@ Chat:
 - Web: http://irc.w3.org/?channels=ccg
 - IRC: irc://irc.w3.org:6665/#ccg
 
+## Meetings
+
+| Date | Topic | Link |
+|------|-------|------|
+| 27 Apr 2020 | Cryptographic Accumulators |  |
+| 20 Apr 2020 | ILR Wrapper | https://w3c-ccg.github.io/meetings/2020-04-20-vc-education/ |
+| 13 Apr 2020 | DID Support in Open Badges | https://w3c-ccg.github.io/meetings/2020-04-13-vc-education/ |
+| 23 Mae 2020 | LD-JWS2020 signature suite and EDU demos | https://w3c-ccg.github.io/meetings/2020-03-23-vc-education/ | 
+| 02 Mar 2020 | European Credentialing Landscape | https://w3c-ccg.github.io/meetings/2020-03-02-vc-education/ | 
+| 24 Feb 2020 | US EDU Data Standards | https://w3c-ccg.github.io/meetings/2020-02-24-vc-education/ |
+| 10 Feb 2020 | Survey of Emerging Standards (focus DID web) | https://w3c-ccg.github.io/meetings/2020-02-10-vc-education/ |
+| 03 Feb 2020 | Task Force Kickoff | https://w3c-ccg.github.io/meetings/2020-02-03-vc-education/ |
+
+
 ## Charter
 The [Verifiable Credentials for Education Task Force Charter](https://docs.google.com/document/d/1vjrvwmvHOYmJd_Dqwk_TfGjKLTiTe9fzX9J4QqCUcf0/edit#)
