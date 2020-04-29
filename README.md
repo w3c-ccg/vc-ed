@@ -24,7 +24,7 @@ Chat:
 
 | Date        | Topic |
 |-------------|-------|
-| 27 Apr 2020 | Cryptographic Accumulators  |
+| 27 Apr 2020 | [Cryptographic Accumulators](https://w3c-ccg.github.io/meetings/2020-04-27-vc-education/)  |
 | 20 Apr 2020 | [ILR Wrapper](https://w3c-ccg.github.io/meetings/2020-04-20-vc-education/) |
 | 13 Apr 2020 | [DID Support in Open Badges](https://w3c-ccg.github.io/meetings/2020-04-13-vc-education/) |
 | 23 Mar 2020 | [LD-JWS2020 signature suite and EDU demos](https://w3c-ccg.github.io/meetings/2020-03-23-vc-education/) | 
