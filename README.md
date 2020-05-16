@@ -24,6 +24,7 @@ Chat:
 
 | Date        | Topic |
 |-------------|-------|
+| 11 May 2020 | [Europass Digital Credential Infrastructure](https://w3c-ccg.github.io/meetings/2020-05-11-vc-education/)  |
 | 27 Apr 2020 | [Cryptographic Accumulators](https://w3c-ccg.github.io/meetings/2020-04-27-vc-education/)  |
 | 20 Apr 2020 | [ILR Wrapper](https://w3c-ccg.github.io/meetings/2020-04-20-vc-education/) |
 | 13 Apr 2020 | [DID Support in Open Badges](https://w3c-ccg.github.io/meetings/2020-04-13-vc-education/) |
