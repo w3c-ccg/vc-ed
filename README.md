@@ -24,6 +24,7 @@ Chat:
 
 | Date        | Topic |
 |-------------|-------|
+| 29 Jun 2020 | Blockchain in Education Report |
 | 22 Jun 2020 | TalentCloud and Employer Competencies |
 | 15 Jun 2020 | EBSI - Use case Diploma  |
 | 8 Jun 2020 | Competencies Survey |
