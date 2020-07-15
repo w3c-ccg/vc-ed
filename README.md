@@ -25,7 +25,7 @@ Chat:
 | Date        | Topic |
 |-------------|-------|
 | 27 Jul 2020 | Modeling Educational Verifiable Credentials |
-| 13 Jul 2020| Open University and Solid + OBs |
+| 13 Jul 2020| [Open University and Solid + OBs](https://w3c-ccg.github.io/meetings/2020-07-13-vc-education/) |
 | 29 Jun 2020 | [US Dept of EDU Blockchain in Education Report](https://w3c-ccg.github.io/meetings/2020-06-29-vc-education/) |
 | 22 Jun 2020 | [TalentCloud and Employer Competencies](https://w3c-ccg.github.io/meetings/2020-06-22-vc-education/) |
 | 15 Jun 2020 | [EBSI - Use case Diploma](https://w3c-ccg.github.io/meetings/2020-06-15-vc-education/) |
