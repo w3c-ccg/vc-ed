@@ -9,7 +9,7 @@ mailing list as well.
 
 ## Meeting information
 
-We meet every Monday at 8am PST / 11am EST / 4pm GMT. 
+We meet biweekly on Monday (i.e. every other Monday) at 8am PST / 11am EST / 4pm GMT. 
 
 Voice:
 - VoIP: sip:ccg@96.89.14.196
