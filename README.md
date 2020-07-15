@@ -9,7 +9,7 @@ mailing list as well.
 
 ## Meeting information
 
-We meet biweekly on Monday (i.e. every other Monday) at 8am PST / 11am EST / 4pm GMT. 
+We meet biweekly on Monday (i.e. every other Monday) at 8am PST / 11am EST / 4pm GMT. Our next meeting is on 27 July.
 
 Voice:
 - VoIP: sip:ccg@96.89.14.196
@@ -24,6 +24,7 @@ Chat:
 
 | Date        | Topic |
 |-------------|-------|
+| 27 Jul 2020 | Modeling Educational Verifiable Credentials |
 | 13 Jul 2020| Open University and Solid + OBs |
 | 29 Jun 2020 | [US Dept of EDU Blockchain in Education Report](https://w3c-ccg.github.io/meetings/2020-06-29-vc-education/) |
 | 22 Jun 2020 | [TalentCloud and Employer Competencies](https://w3c-ccg.github.io/meetings/2020-06-22-vc-education/) |
