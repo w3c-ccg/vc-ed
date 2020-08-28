@@ -8,6 +8,7 @@
     "vced": "https://w3c-ccg.github.io/vc-ed#",
     
     "EducationalOccupationalCredential": "schema:EducationalOccupationalCredential",
+    "Person": "schema:Person",
     "Issuer": "obi:Issuer",
     "hasAchieved": "vced:hasAchieved",
     "CredentialSubjectAchievement": "vced:CredentialSubjectAchievement",
