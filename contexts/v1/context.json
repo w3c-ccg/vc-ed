@@ -4,7 +4,9 @@
     "type": "@type",
     "schema": "http://schema.org/",
     "vced": "https://w3c-ccg.github.io/vc-ed#",
+    "obi": "https://w3id.org/openbadges#",
     "hasAchieved": "vced:hasAchieved",
-    "EducationalOccupationalCredential": "schema:EducationalOccupationalCredential"
+    "EducationalOccupationalCredential": "schema:EducationalOccupationalCredential",
+    "Issuer": "obi:Issuer"
   }
 }
