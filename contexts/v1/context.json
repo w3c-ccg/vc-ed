@@ -2,11 +2,15 @@
   "@context": {
     "id": "@id",
     "type": "@type",
+    
     "schema": "http://schema.org/",
-    "vced": "https://w3c-ccg.github.io/vc-ed#",
     "obi": "https://w3id.org/openbadges#",
-    "hasAchieved": "vced:hasAchieved",
+    "vced": "https://w3c-ccg.github.io/vc-ed#",
+    
     "EducationalOccupationalCredential": "schema:EducationalOccupationalCredential",
-    "Issuer": "obi:Issuer"
+    "Issuer": "obi:Issuer",
+    "hasAchieved": "vced:hasAchieved",
+    "CredentialSubjectAchievement": "vced:CredentialSubjectAchievement",
+    "displayProperties": "vced:displayProperties"
   }
 }
