@@ -1,0 +1,10 @@
+{
+  "@context": {
+    "id": "@id",
+    "type": "@type",
+    "schema": "http://schema.org/",
+    "vced": "https://w3c-ccg.github.io/vc-ed#",
+    "hasAchieved": "vced:hasAchieved",
+    "EducationalOccupationalCredential": "schema:EducationalOccupationalCredential"
+  }
+}
