@@ -30,9 +30,8 @@
         
         "name": {"@id": "vced:name", "@type": "xsd:string"},
         "description": {"@id": "vced:description", "@type": "xsd:string"},
-        "image": {"@id": "vced:image", "@type": "xsd:string"},
+        "image": {"@id": "vced:image", "@type": "xsd:string"}
       }
     }
-
   }
 }
