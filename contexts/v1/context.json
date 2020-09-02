@@ -40,8 +40,8 @@
         "@version": 1.1,
         "@protected": true,
         "id": "@id",
-        "type": "obi:Issuer",
-        "xsd": "http://www.w3.org/2001/XMLSchema#",
+        "type": "@type",
+        
         "obi": "https://w3id.org/openbadges#",
         "name": "obi:name",
         "url": "obi:url",
