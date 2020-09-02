@@ -7,11 +7,14 @@
     "obi": "https://w3id.org/openbadges#",
     "vced": "https://w3c-ccg.github.io/vc-ed#",
     
+    "Assertion": "vced:Assertion",
     "EducationalOccupationalCredential": "schema:EducationalOccupationalCredential",
     "Person": "schema:Person",
     "Issuer": "obi:Issuer",
     "hasAchieved": "vced:hasAchieved",
     "CredentialSubjectAchievement": "vced:CredentialSubjectAchievement",
-    "displayProperties": "vced:displayProperties"
+    "image": "vced:image",
+    "name": "vced:name",
+    "description": "vced:description"
   }
 }
