@@ -1,5 +1,8 @@
 {
   "@context": {
+    "@version": 1.1,
+    "@protected": true,
+
     "id": "@id",
     "type": "@type",
     
@@ -7,14 +10,29 @@
     "obi": "https://w3id.org/openbadges#",
     "vced": "https://w3c-ccg.github.io/vc-ed#",
     
-    "Assertion": "vced:Assertion",
     "EducationalOccupationalCredential": "schema:EducationalOccupationalCredential",
     "Person": "schema:Person",
     "Issuer": "obi:Issuer",
     "hasAchieved": "vced:hasAchieved",
-    "CredentialSubjectAchievement": "vced:CredentialSubjectAchievement",
-    "image": "vced:image",
-    "name": "vced:name",
-    "description": "vced:description"
+    
+     "Assertion": {
+      "@id": "https://w3c-ccg.github.io/vc-ed#Assertion",
+      "@context": {
+        "@version": 1.1,
+        "@protected": true,
+
+        "id": "@id",
+        "type": "@type",
+        "xsd": "http://www.w3.org/2001/XMLSchema#",
+        
+        "obi": "https://w3id.org/openbadges#",
+        "vced": "https://w3c-ccg.github.io/vc-ed#",
+        
+        "name": {"@id": "vced:name", "@type": "xsd:string"},
+        "description": {"@id": "vced:description", "@type": "xsd:string"},
+        "image": {"@id": "vced:image", "@type": "xsd:string"},
+      }
+    }
+
   }
 }
