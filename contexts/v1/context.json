@@ -7,46 +7,16 @@
     "schema": "http://schema.org/",
     "obi": "https://w3id.org/openbadges#",
     "vced": "https://w3c-ccg.github.io/vc-ed#",
+    
     "EducationalOccupationalCredential": "schema:EducationalOccupationalCredential",
     "Person": "schema:Person",
+    "name": "schema:name",
+    "url": "schema:url",
+    "image": { "@id": "schema:image", "@type": "@id" },
+    "description": { "@id": "schema:description" },
+    
     "hasAchieved": "vced:hasAchieved",
-    "Assertion": {
-      "@id": "https://w3c-ccg.github.io/vc-ed#Assertion",
-      "@context": {
-        "@version": 1.1,
-        "@protected": true,
-        "id": "@id",
-        "type": "@type",
-        "xsd": "http://www.w3.org/2001/XMLSchema#",
-        "obi": "https://w3id.org/openbadges#",
-        "vced": "https://w3c-ccg.github.io/vc-ed#",
-        "name": {
-          "@id": "vced:name",
-          "@type": "xsd:string"
-        },
-        "description": {
-          "@id": "vced:description",
-          "@type": "xsd:string"
-        },
-        "image": {
-          "@id": "vced:image",
-          "@type": "xsd:string"
-        }
-      }
-    },
-    "Issuer": {
-      "@id": "https://w3id.org/openbadges#Issuer",
-      "@context": {
-        "@version": 1.1,
-        "@protected": true,
-        "id": "@id",
-        "type": "@type",
-        
-        "obi": "https://w3id.org/openbadges#",
-        "name": "obi:name",
-        "url": "obi:url",
-        "image": "obi:image"
-      }
-    }
+    "Assertion": "vced:Assertion",
+    "Issuer": "obi:Issuer"
   }
 }
