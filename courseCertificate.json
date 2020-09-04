@@ -1,0 +1,34 @@
+{
+  "@context": [
+      "https://www.w3.org/2018/credentials/v1",
+      "https://w3c-ccg.github.io/vc-ed/contexts/v1/context.json"
+  ],
+  "id": "https://example.org/path/to/credential",
+  "issuanceDate": "2020-09-04T00:33:21.794Z",
+  "name": "Additive Manufacturing: Technology Principles and Applications",
+  "description": "This credential certifies that Sample Learner has successfully completed the Additive Manufacturing: Technology Principles and Applications program requirements",
+  "type": [
+      "VerifiableCredential",
+      "Assertion"
+  ],
+  "issuer": {
+      "type": "Issuer",
+      "id": "did:example:xpro",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAg0AAACiCAYAAADCzf6GAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAADWNJREFUeNrs3U9y1MYCB2D5FQfwDZhUigUb4lRlz/gEcQ6QynAC7BMYn8BwAkzlADgn8LBP1TNsWFAphhv4nUBPjduJY2yPplvSaKTvK0/hAo+k1gj3r/9IvVUA3OHJ40fl1fcfPn7ackZg3P7jFAAAQgMA0IyyFBoAgBqZofoSGgCAWoQGAEBoAACEBgBAaAAA+marIjQAAEuVFaEBAKhFaAAAljI8AQDUJjQAAEIDACA0AABCAwAgNAAAQgMAMGBlKTQAADUyQ/UlNAAAtQgNAIDQAAAIDQBAxx4UX+c2tGor472OzbFtuq0CYAi/zCxYBQDUavFVhAYAoBahAQBYyvAEAFCb0AAACA0AgNAAAAgNAIDQAAAIDQDAgJWl0AAA1MgM1ZfQAADUIjQAAEIDACA0AABCAwDQNxasAgBqKStCAwBQi9AAACxleAIAqE1oAACEBgCgOQ+cAgDol+8fTnaqP7ar13TJj15Ur/Pqtfjry2IhNJBi17HBoCqQUHnsdLS7i6ryOe+oQhxEeRo6JyEc/Bw/52niNsIf8+r1rnqdtlHureLrwlWt2sp4r2ODNXry+NHf1/mHj59ck+utUM463u0itmBDBTRvsgKqynOWWjFmlmdxrTzzHnyuoZafVa/fqtekpTK/ql4nVXkvhAbHBkKD0NBlpfsmVkCLDQwN3/RAhNZ4KFPXASL2HB1Wr/0Oy/qqKueLrK2UpYmQANQyiRXd56rSex0rvk22HVv5Z1VZQpn2OgoMYT+fOwwMV2U9rPb93zg0lNpS9kRIAFY2i+FhfyDlCYHobegBaTMMVds+DvspupvPcVMIDCE4zFI3IDQAkNp6PR5Ir8OVaQxDjU86Deep496F+7xODQ5CAwA5QuVzNqDgsB3L01hwiIFh1rNyJgUHoQGAXKGCPRtQea6Cw6SBwLDfw8BwPThMhQYAOg8OsUU9pODwNjMwhDB13PNyvq3bS2TBKgCaNOvqLoQOg1BOL8EmhKjtusGmrAgNADTpeGDlOUx5UwwbOxtSxlndYQqhAYAmTTJb50Mpz+GGlXPp8RqeAKA3rfMe+3mVH44hY9LQvhfV62X1Oigu1+65eh1Vr5P4702Y1rljxIJVAMN2VONnnhaXY9tNdaeH1vneX18Wpw2XJVSSX2r83MNYaTe1MNZemCy4wvoNzxvY5zx8dvc84np+I6QcNhBUwnE/ExoARmqV9QbiLYah8pk11DpvOjSsvE5ErFCPGwgPO9cr6nv2t9NA+Dpa5XOrfvak2u9pLGfOZ7cnNIzQ7w9/anUxrV+//GmhLxhmwFiESqOqgMLCVLmPO572pEyhQg0rdJ41UJ46geW3LgPDtXJexM9uO1b+KbaX9RCZ0wDAzQpovqzFWcOkL0+JjMt6H2Ru5ocOwtI8eyXKy89tkfH+e+dvCA0A3FbRntZsWd9np0flOSkul4hOtTQAxZCUU+ZnDZQzlPEoYxNToQGAFK+GEhquWvJthoYir5fhNA4PNRWQUrc1ufPx2WUpNABwZ+WTO5Gxb4tYvW85AD3N2P6bhsua89ndGn7K6ktoAKCt1vnYJPestHB7ak4Imdz1D0IDAKw3NDQezOLkz9Q5HHf2mLjlEhi0OD47y9jESd2x5jgRbj9jX6fxlz2bKXU45l1LxxPCSMrtlxOhARilUOFXlfnPGa3A8HTBurPaQ2BIfYRyCCYvfWKtepjx3oslgXGaWbm34X3TocHwBDAGOffoz+6cTf7vSiO0MnMeH3y0wmOKu7QzoOsgpyxt9gC19bknH/Nt17wFq4BRiA8ryploVqf3IPQypHZPz+Ntcr0SH4m8PYRrIFaCbQagacb12VYgyQkj34SGsiI0AHobMnsbmuhl6Ok5y30k8rxHZXm9rlb7mnoZWjlmoQEYhTiZMadyvq+3IaeX4WTVRZg6bJnPMjez6EE5wnoKr4v8tTDet3SI5y1e8432NIThCRMhgTF5GXsEUir40NtwdPNOiiH2MsQy5S5YddHUEw6v2amOre7PhmN/GoNPE0Msyyr3hwP7v3LriRYagDH1NlxUlU4Ypkjtqg69Dc8a7GU4aqFizQ0M03h+JpmbOm3h8I7XdFoWNeYdTHp62V8UDc5LERqAsQWHsFRy6BlImRT3r96GzF6G8Mu89Vssa94KeLXQUs6tqTe9G9Blc7rBxx7CzrSpjQkNwBiF3oazxPfOqteL+P1eRivuoKNbLM/WcH4v+ng3SIZXLW57sUknwkRIYHQyb8F8HnsYgtQHOZ0PrFLtspLt2knLQ0hfhAaA/ku9BfPro6Kr4DAr0sexDwZ8XjsZdumwLEf+qwgNwMjF1mNq5RbmMaT2Mpz28RbLBvX1yZZJ4a5vE1XXqiyFBmDUjoq0h+uE3oZJakU04PMZnmw5lF6Glx0NIf2wMZmh+hIagNGKLeIuu5+PBtxyDefyl6GEyepz6ircbdRjuoUGYOzBIbSMu6jIhzTWf1vZdgcwLPE1+FTleDGgz2YqNAA061kH+zgY0Fj/deE5AD+2uOhSV0Kg+64qx2nGeRg8oQEYvTgxcd7iLhYDvcUyVLS7AxlyeZUZ6v43wDAoNADc4dmGbnsd5jEsDKn35HBN+522teH7Vmat4ZvP1YJVAFFoLVe/ZEPLeb/pCnZAt1ieVK83ayzPebH8bpfwGOyUyYV7YV2SjBDUx/A0aXJjZUVoAPhHuJNiVjQ7o32TexnO4yusI3Hag16Fg2WBJS6DPUvY9nZ838uMc5XaI7DT0pyQSeZn/w2hAeCf3oawCuZJg70NJz0Y71/lltKLq9b8Bk9s/CMxNATPM0JDTqCaFO1MpJzk/F+4+XeGJwC+tdfktjK7vJsIQi9GFvxOq3O+SKwwJ9V791LuoAghq3pv6mGHIZU2VtJ82mQvQ2AiJEBU/dLfL5odB/66ToUz27mcCvh5xnsXHVfuy0ybLofQAHAZGEIF38YM+sPMWeys7k1ORZvxeS0y9rnd8PU8zXj7e6EBYEnlXrT3SN/XTm934nyMRcYmUnsb3mXsc6/h0/BbxnsNTwDc0yoLY8ptDiNMM1t+rO5VxntniS3/+RqCym3X83ZmCJkLDQB3O+5gH3obupUzryG10s25A2KnwWC5X6T3mp3fN3FXaABGLcyWL1p8Kt81YWb+C2e8G/FW15yW/2HCPi8y9/k6d25DnI+R02tx9/GXpdAAjN5xh/t63vSEN+6VMyFyktjy/yNnnznXY7y23hZ5c3PuPP6y+hIagDH3MrwoGn7U7hLbHYeUsct99sHzNewzzKd4u2q4jD0MZ8XlMx9SLZY9cVNoAMYaGCZFejfuokjvhp7FiZe0LA4X5FTie6vefhmHRXKDQxgy+xxC7bLwEI4vht/PmYEhWNoz0/cnQu667IGW5NxieRSDwzTx/cd+v3XmTZF3J0EIlgcd77OI12a4RsNzPq7WAPly7d9/iCFh0uC5Otn00DB3vQMt9DKEyn6W2stQtSZP4nbmicEh3II5u9oOrfY2hMdKX2QExNAzdLTKo8AzH2V9m50GehGWBoY666QYngDGKGdewdEd36/q0KTIzqzj9stNW9106bUcFqwSGoCx9TLMMlpt8+u9A3HSWGqFFFqh1qXoxpvM96889yXz2ug8MNTpZSgrQgMwpsCQe/fCba2xg4ztPbcuRftiBb7I2ETqg5dCb8NFz0/P+SoroQoNwJjkPClvftvtaLGFdpK4Tbdgdie31b/yWg5xHkSfhylWOj7DE8CYehlCiz5nFcujxH9bZs+6FJ14lfn+WUqvUJgU2dPgEALDblzcqzahARiLnLUf5vc99CaztyHQ29Cy+BmdZ25mlrjvk54Fh6TAIDQAoxBb8jmt+aOGfuYuO3GCJu3qfELkjeDwS7H+OQ6L1MAgNABj0Vovw42W7EnGfo7dgtm63HkN2znhLg5V/Fis7xlE4fr8MTUwCA3AGHoZwuTHScu9DCk/+02FVOTNuaBesFvHehT/OobqFZ4G+qzIu6NjpeAbexeerfKQKqEBGFtgyK2Ia/UyNNjbsO8WzNb9kfn+nSYmrobhiur1XXE5ZNHG8xwu4rUYwsLuKtfxfR64foCB+yXjvSktwfDchjcNlyF0Jw9prYpwjrYTz0Ou0wZa+I31EMQhi9MYcEMYeVpcPnxs1WByEc/Pu1XDbm1lWWwVX5fIbtXWQH8R9fa8/f7wp1aP7dcvf24N8bzxrSePH/39eX34+Mm5hQ7FILH06aWtBIRbM0NZ6mkAgB6K8w/mfTomcxoAAKEBABAaAAChAQDoGwtWAQC1hLsnhAYAoBahAQBYyvAEAFCb0AAACA0AgNAAAAgNAIDQAAAIDQDAgJWl0AAA1MgM1ZfQAADUIjQAAEIDACA0AABCAwDQNxasAgBqKSsPqj93nYoku45tcMcGwD22nALgLk8ePyqvvv/w8ZPfFzByhicAAKEBABAaAAChAQAQGgAAoQEAEBoAgLErS6EBAKiRGaovoQEAqEVoAACEBgBAaAAAhAYAoG+2KkIDALBUWREaAIBahAYAYCnDEwBAbUIDACA0AABCAwAgNAAAQgMAsLH+L8AAHwMI2FCoXwUAAAAASUVORK5CYII=",
+      "name": "MIT xPro",
+      "url": "https://xpro.mit.edu/"
+  },
+  "credentialSubject": {
+      "type": "Person",
+      "id": "did:example:learner",
+      "name": "Sample Learner",
+      "hasAchieved": {
+          "type": [
+              "EducationalOccupationalCredential"
+          ],
+          "id": "https://xpro.mit.edu/courses/course-v1:xPRO+AMx/",
+          "name": "Additive Manufacturing: Technology Principles and Applications Program Credential",
+          "description": "Awarded on completion of requirements of Additive Manufacturing: Technology Principles and Applications program requirements"
+      }
+  }
+}
