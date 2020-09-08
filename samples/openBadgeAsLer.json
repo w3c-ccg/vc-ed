@@ -1,0 +1,45 @@
+{
+  "@context": [
+    "https://www.w3.org/2018/credentials/v1",
+    "http://www.legreq.com/t3/learner-record/v1"
+  ],
+  "id": "did:example:ebfeb1f712ebc6f1c276e12ec21",
+  "type": [
+    "VerifiableCredential",
+    "LearnerRecordWrapper"
+  ],
+  "issuerId": "did:example:ebfeb1f712ebc6f1c276e12ec22",
+  "date": "2010-01-01T19:73:24Z",
+  "name": "MicroMasters Certificate",
+  "description": "This record authenticates that EdX MITx has conferred the MicroMasters Certificate to Matthew Tracker.",
+  "learnerRecord": [
+    {
+      "POCid": "did:example:ebfeb1f712ebc6f1c276e12ec23",
+      "payload": {
+        "type": "AlumniJsonLd-3.0",
+        "format": "application/ld+json",
+        "data": {
+          "type": "Assertion",
+          "id": "https://example.org/matthew-tracker-supply-chain-management-badge.json",
+          "recipient": {
+            "type": "email",
+            "hashed": true,
+            "salt": "deadsea",
+            "identity": "sha256$c7ef86405ba71b85acd8e2e95166c4b111448089f2e1599f42fe1bba46e865c5"
+          },
+          "evidence": "https://example.org/matthew-tracker-supply-chain-management-work.html",
+          "issuedOn": "2016-12-31T23:59:59Z",
+          "expires": "2017-06-30T23:59:59Z",
+          "badge": "https://raw.githubusercontent.com/w3c-ccg/vc-ed/gh-pages/samples/definitions/supplyChainManagementCertificate.json"
+        }
+      }
+    },
+    {
+      "POCid": "did:example:ebfeb1f712ebc6f1c276e12ec23",
+      "payload": {
+        "format": "application/pdf",
+        "data": "H4sICMr5oF4CA2Zha2VfY2VydC5wZGYA7L0H3CxJWS6uIEgQAQmCi[...]"
+      }
+    }
+  ]
+}
