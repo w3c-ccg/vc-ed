@@ -1,7 +1,6 @@
 {
   "@context": [
     "https://www.w3.org/2018/credentials/v1",
-    "http://www.legreq.com/t3/learner-record/v1",
     "https://w3c-ccg.github.io/vc-ed/contexts/v1/context.json"
   ],
   "id": "did:example:ebfeb1f712ebc6f1c276e12ec21",
