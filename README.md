@@ -9,10 +9,11 @@ We meet biweekly on Monday (i.e. every other Monday) at 8am PT / 11am ET / 4pm G
 Videoconference link (Jitsi): https://meet.w3c-ccg.org/education
 
 Dial-in phone numbers:
-- US phone: TODO
-- EU phone: TODO
+- US phone: tel:+1.602.932.2243;3
 
-Chat:
+We are working on SIP dial-in and international phone numbers.
+
+IRC Chat (mirrored in Videoconference chat):
 - Web: http://irc.w3.org/?channels=ccg
 - IRC: irc://irc.w3.org:6665/#ccg
 
