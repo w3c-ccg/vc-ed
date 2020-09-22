@@ -1,20 +1,16 @@
 # vc-ed
 
-We encourage contributions meeting the [Contribution
-Guidelines](CONTRIBUTING.md).  While we prefer the creation of issues
-and Pull Requests in the GitHub repository, discussions often occur
-on the
-[public-credentials](http://lists.w3.org/Archives/Public/public-credentials/)
-mailing list as well.
+We encourage contributions meeting the [Contribution Guidelines](CONTRIBUTING.md).  While we prefer the creation of issues and Pull Requests in the GitHub repository, discussions often occur on the [public-credentials](http://lists.w3.org/Archives/Public/public-credentials/) mailing list as well.
 
 ## Meeting information
 
-We meet biweekly on Monday (i.e. every other Monday) at 8am PST / 11am EST / 4pm GMT. Our next meeting is on 27 July.
+We meet biweekly on Monday (i.e. every other Monday) at 8am PT / 11am ET / 4pm GMT. Our next meeting is on 5 October.
 
-Voice:
-- VoIP: sip:ccg@96.89.14.196
-- US phone: +1.540.274.1034 x6306
-- EU phone: +33.9.74.59.31.06 x6306
+Videoconference link (Jitsi): https://meet.w3c-ccg.org/education
+
+Dial-in phone numbers:
+- US phone: TODO
+- EU phone: TODO
 
 Chat:
 - Web: http://irc.w3.org/?channels=ccg
@@ -24,7 +20,9 @@ Chat:
 
 | Date        | Topic |
 |-------------|-------|
-| 27 Jul 2020 | Modeling Educational Verifiable Credentials |
+| 21 Sep 2020 | [Modeling Educational Verifiable Credentials](https://w3c-ccg.github.io/meetings/2020-09-21-vc-education/) |
+| 24 Aug 2020 | [Universal Wallet and  Modeling Educational Verifiable Credentials](https://w3c-ccg.github.io/meetings/2020-08-24-vc-education/) |
+| 10 Aug 2020 | [Modeling Educational Verifiable Credentials](https://w3c-ccg.github.io/meetings/2020-08-10-vc-education/) |
 | 13 Jul 2020| [Open University and Solid + OBs](https://w3c-ccg.github.io/meetings/2020-07-13-vc-education/) |
 | 29 Jun 2020 | [US Dept of EDU Blockchain in Education Report](https://w3c-ccg.github.io/meetings/2020-06-29-vc-education/) |
 | 22 Jun 2020 | [TalentCloud and Employer Competencies](https://w3c-ccg.github.io/meetings/2020-06-22-vc-education/) |
