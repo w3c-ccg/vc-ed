@@ -6,7 +6,7 @@ We encourage contributions meeting the [Contribution Guidelines](CONTRIBUTING.md
 
 We meet biweekly on Monday (i.e. every other Monday) at 8am PT / 11am ET / 4pm GMT. Our next meeting is on 5 October.
 
-Videoconference link (Jitsi): https://meet.w3c-ccg.org/education
+Videoconference link (Jitsi): [https://meet.w3c-ccg.org/education](https://meet.w3c-ccg.org/education)
 
 Dial-in phone numbers:
 - US phone: tel:+1.602.932.2243;3
