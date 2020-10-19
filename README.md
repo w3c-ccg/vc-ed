@@ -4,7 +4,7 @@ We encourage contributions meeting the [Contribution Guidelines](CONTRIBUTING.md
 
 ## Meeting information
 
-We meet biweekly on Monday (i.e. every other Monday) at 8am PT / 11am ET / 4pm GMT. Our next meeting is on 5 October.
+We meet biweekly on Monday (i.e. every other Monday) at 8am PT / 11am ET / 3pm GMT. Our next meeting is on 2 November.
 
 Videoconference link (Jitsi): [https://meet.w3c-ccg.org/education](https://meet.w3c-ccg.org/education)
 
