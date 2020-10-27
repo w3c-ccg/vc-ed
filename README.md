@@ -21,7 +21,7 @@ IRC Chat (mirrored in Videoconference chat):
 
 | Date        | Topic |
 |-------------|-------|
-| 19 Oct 2020 | Verifiable Credentials and PDFs |
+| 19 Oct 2020 | [Verifiable Credentials and PDFs](https://w3c-ccg.github.io/meetings/2020-10-19-vc-education/) |
 | 21 Sep 2020 | [Modeling Educational Verifiable Credentials](https://w3c-ccg.github.io/meetings/2020-09-21-vc-education/) |
 | 24 Aug 2020 | [Universal Wallet and  Modeling Educational Verifiable Credentials](https://w3c-ccg.github.io/meetings/2020-08-24-vc-education/) |
 | 10 Aug 2020 | [Modeling Educational Verifiable Credentials](https://w3c-ccg.github.io/meetings/2020-08-10-vc-education/) |
