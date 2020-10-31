@@ -4,16 +4,15 @@ We encourage contributions meeting the [Contribution Guidelines](CONTRIBUTING.md
 
 ## Meeting information
 
-We meet biweekly on Monday (i.e. every other Monday) at 8am PT / 11am ET / 3pm GMT. Our next meeting is on 2 November.
+We meet weekly on Monday at 8am PT/11am ET. 
 
-Videoconference link (Jitsi): [https://meet.w3c-ccg.org/education](https://meet.w3c-ccg.org/education)
+See other timezones/add to calendar: 
 
-Dial-in phone numbers:
-- US phone: tel:+1.602.932.2243;3
+<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=N2JucGsxYWlkOHZqcGswcWhmbTRjbmpiMDRfMjAyMDExMDJUMTYwMDAwWiA2YTRicTE3bm84NHNzbmFkY2NtMGoyMTMzZ0Bn&amp;tmsrc=6a4bq17no84ssnadccm0j2133g%40group.calendar.google.com&amp;scp=ALL"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
 
-We are working on SIP dial-in and international phone numbers.
+Zoom: https://mit.zoom.us/j/99166694346
 
-IRC Chat (mirrored in Videoconference chat):
+IRC Chat:
 - Web: http://irc.w3.org/?channels=ccg
 - IRC: irc://irc.w3.org:6665/#ccg
 
