@@ -4,9 +4,9 @@ We encourage contributions meeting the [Contribution Guidelines](CONTRIBUTING.md
 
 ## Meeting information
 
-We meet weekly on Monday at 8am PT/11am ET. 
+We meet Mondays at 8am PT | 11am ET | 4pm GMT | 5pm CET | [more timezones](https://www.timeanddate.com/worldclock/converter.html?iso=20201102T160000&p1=tz_pt&p2=tz_et&p3=tz_gmt&p4=tz_cet)
 
-See other timezones/add to calendar: 
+Add to calendar: 
 
 <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=N2JucGsxYWlkOHZqcGswcWhmbTRjbmpiMDRfMjAyMDExMDJUMTYwMDAwWiA2YTRicTE3bm84NHNzbmFkY2NtMGoyMTMzZ0Bn&amp;tmsrc=6a4bq17no84ssnadccm0j2133g%40group.calendar.google.com&amp;scp=ALL"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
 
