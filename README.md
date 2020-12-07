@@ -20,7 +20,8 @@ IRC Chat:
 
 | Date        | Topic |
 |-------------|-------|
-| 16 Nov 2020 | [Modeling educational VCs working session -- coming soon](https://w3c-ccg.github.io/meetings/2020-11-16-vc-education/) |
+| 7 Dec 2020 | [DOE LER Wallet](https://w3c-ccg.github.io/meetings/2020-12-07-vc-education/) |
+| 16 Nov 2020 | [Modeling educational VCs working session](https://w3c-ccg.github.io/meetings/2020-11-16-vc-education/) |
 | 9 Nov 2020 | [Modeling educational VCs working session](https://w3c-ccg.github.io/meetings/2020-11-09-vc-education/) |
 | 2 Nov 2020 | [PDF work items and modeling educational VCs](https://w3c-ccg.github.io/meetings/2020-11-02-vc-education/) |
 | 19 Oct 2020 | [Verifiable Credentials and PDFs](https://w3c-ccg.github.io/meetings/2020-10-19-vc-education/) |
