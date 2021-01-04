@@ -2,6 +2,10 @@
 
 We encourage contributions meeting the [Contribution Guidelines](CONTRIBUTING.md).  While we prefer the creation of issues and Pull Requests in the GitHub repository, discussions often occur on the [public-credentials](http://lists.w3.org/Archives/Public/public-credentials/) mailing list as well.
 
+Co-chairs:
+- Kim Hamilton Duffy, MIT/Digital Credentials Consortium
+- Anthony Camilleri, Knowledge Innovation Centre
+
 ## Meeting information
 
 We meet Mondays at 8am PT / 11am ET / 4pm GMT / 5pm CET. [More Timezones](https://www.timeanddate.com/worldclock/converter.html?iso=20201102T160000&p1=tz_pt&p2=tz_et&p3=tz_gmt&p4=tz_cet)
