@@ -20,6 +20,10 @@ IRC Chat:
 - Web: [http://irc.w3.org/?channels=ccg](http://irc.w3.org/?channels=ccg)
 - IRC: irc://irc.w3.org:6665/#ccg
 
+## Work Items
+- [VC EDU Use Cases](https://w3c-ccg.github.io/vc-ed-use-cases/)
+- [VC EDU Models](https://w3c-ccg.github.io/vc-ed-models/)
+
 ## Meetings
 
 | Date        | Topic |
