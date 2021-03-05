@@ -28,6 +28,13 @@ IRC Chat:
 
 | Date        | Topic |
 |-------------|-------|
+| 1 Mar 2021 | [Milestone 1/2/3 review](https://w3c-ccg.github.io/meetings/2021-03-01-vc-education/)
+| 22 Feb 2021 | [Milestone 1/2 review, Milestone 3 Kickoff](https://w3c-ccg.github.io/meetings/2021-02-22-vc-education/)
+| 8 Feb 2021 | [Milestone 1 Review, Milestone 2 Kickoff](https://w3c-ccg.github.io/meetings/2021-02-08-vc-education/)
+| 1 Feb 2021 | [Use case Review, Milestone 1 Review](https://w3c-ccg.github.io/meetings/2021-02-01-vc-education/)
+| 25 Jan 2021 | [Review Submitted Use Cases and Milestone 1 Kickoff](https://w3c-ccg.github.io/meetings/2021-01-25-vc-education/)
+| 18 Jan 2021 | [VC-EDU Work Plan for Q1 2021, cont’d](https://w3c-ccg.github.io/meetings/2021-01-18-vc-education/)
+| 11 Jan 2021 | [VC-EDU Work Plan for Q1 2021](https://w3c-ccg.github.io/meetings/2021-01-11-vc-education/)
 | 7 Dec 2020 | [DOE LER Wallet](https://w3c-ccg.github.io/meetings/2020-12-07-vc-education/) |
 | 16 Nov 2020 | [Modeling educational VCs working session](https://w3c-ccg.github.io/meetings/2020-11-16-vc-education/) |
 | 9 Nov 2020 | [Modeling educational VCs working session](https://w3c-ccg.github.io/meetings/2020-11-09-vc-education/) |
