@@ -28,6 +28,8 @@ IRC Chat:
 
 | Date        | Topic |
 |-------------|-------|
+| 29 Mar 2021 | [Milestone 1/2 approval; Base Structure for activity/competence/achievement/involvement](https://w3c-ccg.github.io/meetings/2021-03-29-vc-education/)
+| 15 Mar 2021 | [Milestone 1/2 review and working session](https://w3c-ccg.github.io/meetings/2021-03-15-vc-education/)
 | 1 Mar 2021 | [Milestone 1/2/3 review](https://w3c-ccg.github.io/meetings/2021-03-01-vc-education/)
 | 22 Feb 2021 | [Milestone 1/2 review, Milestone 3 Kickoff](https://w3c-ccg.github.io/meetings/2021-02-22-vc-education/)
 | 8 Feb 2021 | [Milestone 1 Review, Milestone 2 Kickoff](https://w3c-ccg.github.io/meetings/2021-02-08-vc-education/)
