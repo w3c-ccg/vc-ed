@@ -4,6 +4,7 @@ We encourage contributions meeting the [Contribution Guidelines](CONTRIBUTING.md
 
 Co-chairs:
 - Kim Hamilton Duffy, MIT/Digital Credentials Consortium
+- Kerri Lemoie, Concentric Sky
 - Anthony Camilleri, Knowledge Innovation Centre
 
 ## Meeting information
@@ -28,6 +29,12 @@ IRC Chat:
 
 | Date        | Topic |
 |-------------|-------|
+| 24 May 2021 | [Open Badges v3](https://w3c-ccg.github.io/meetings/2021-05-24-vc-education/)
+| 17 May 2021 | [Payloads Discussion, continued](https://w3c-ccg.github.io/meetings/2021-05-17-vc-education/)
+| 10 May 2021 | [The Problem with Payloads](https://w3c-ccg.github.io/meetings/2021-05-10-vc-education/)
+| 26 Apr 2021 | [US DoEd Wallet Project](https://w3c-ccg.github.io/meetings/2021-04-26-vc-education/)
+| 19 Apr 2021 | [Activities examples and Base Structure for activity/competence/achievement/involvement](https://w3c-ccg.github.io/meetings/2021-04-19-vc-education/)
+| 12 Apr 2021 | [Issue review, relations, and widening concept "outcomes"](https://w3c-ccg.github.io/meetings/2021-04-12-vc-education/)
 | 29 Mar 2021 | [Milestone 1/2 approval; Base Structure for activity/competence/achievement/involvement](https://w3c-ccg.github.io/meetings/2021-03-29-vc-education/)
 | 15 Mar 2021 | [Milestone 1/2 review and working session](https://w3c-ccg.github.io/meetings/2021-03-15-vc-education/)
 | 1 Mar 2021 | [Milestone 1/2/3 review](https://w3c-ccg.github.io/meetings/2021-03-01-vc-education/)
