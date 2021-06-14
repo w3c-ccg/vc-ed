@@ -29,6 +29,7 @@ IRC Chat:
 
 | Date        | Topic |
 |-------------|-------|
+| 7 Jun 2021 |  [Open Badge and VC Assertions](https://w3c-ccg.github.io/meetings/2021-06-07-vc-education/)
 | 24 May 2021 | [Open Badges v3](https://w3c-ccg.github.io/meetings/2021-05-24-vc-education/)
 | 17 May 2021 | [Payloads Discussion, continued](https://w3c-ccg.github.io/meetings/2021-05-17-vc-education/)
 | 10 May 2021 | [The Problem with Payloads](https://w3c-ccg.github.io/meetings/2021-05-10-vc-education/)
