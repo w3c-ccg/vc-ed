@@ -14,7 +14,7 @@ Add to calendar:
 
 <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=N2JucGsxYWlkOHZqcGswcWhmbTRjbmpiMDRfMjAyMDExMDJUMTYwMDAwWiA2YTRicTE3bm84NHNzbmFkY2NtMGoyMTMzZ0Bn&amp;tmsrc=6a4bq17no84ssnadccm0j2133g%40group.calendar.google.com&amp;scp=ALL"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
 
-Zoom: [https://mit.zoom.us/j/99166694346](https://mit.zoom.us/j/99166694346)
+Jitsi: [https://meet.w3c-ccg.org/education](https://meet.w3c-ccg.org/education)
 
 IRC Chat:
 - Web: [http://irc.w3.org/?channels=ccg](http://irc.w3.org/?channels=ccg)
