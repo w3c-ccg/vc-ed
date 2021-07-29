@@ -28,7 +28,7 @@ IRC Chat:
 
 | Date        | Topic |
 |-------------|-------|
-| 19 Jul 2021 | [Open Badges 3.0 Proposal Update; Complex Credentials Breakout Group](https://w3c-ccg.github.io/meetings/2021-07-26-vc-education/)
+| 26 Jul 2021 | [Open Badges 3.0 Proposal Update; Complex Credentials Breakout Group](https://w3c-ccg.github.io/meetings/2021-07-26-vc-education/)
 | 19 Jul 2021 | [Open Badges 3.0 Proposal Review](https://w3c-ccg.github.io/meetings/2021-07-19-vc-education/)
 | 21 Jun 2021 | [Open Badges and VCs, cont'd](https://w3c-ccg.github.io/meetings/2021-06-21-vc-education/)
 | 7 Jun 2021 |  [Open Badges and VC Assertions](https://w3c-ccg.github.io/meetings/2021-06-07-vc-education/)
