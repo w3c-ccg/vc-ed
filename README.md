@@ -28,6 +28,7 @@ IRC Chat:
 
 | Date        | Topic |
 |-------------|-------|
+| 23 Aug 2021 | No Meeting
 | 16 Aug 2021 | [Update on Open Badges Alignment with VCs](https://w3c-ccg.github.io/meetings/2021-08-16-vc-education/)
 | 09 Aug 2021 | No Meeting
 | 02 Aug 2021 | [Use Cases Discussion](https://w3c-ccg.github.io/meetings/2021-08-02-vc-education/)
