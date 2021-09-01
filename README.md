@@ -28,6 +28,8 @@ IRC Chat:
 
 | Date        | Topic |
 |-------------|-------|
+| 6 Sep 2021  | No Meeting - US Holiday: Labor Day
+| 30 Aug 2021 | [Europass as VCs](https://w3c-ccg.github.io/meetings/2021-08-30-vc-education/)
 | 23 Aug 2021 | No Meeting
 | 16 Aug 2021 | [Update on Open Badges Alignment with VCs](https://w3c-ccg.github.io/meetings/2021-08-16-vc-education/)
 | 09 Aug 2021 | No Meeting
