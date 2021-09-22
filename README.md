@@ -28,6 +28,7 @@ IRC Chat:
 
 | Date        | Topic |
 |-------------|-------|
+| 20 Sep 2021 | [Charter & Scope Discussion](https://w3c-ccg.github.io/meetings/2021-09-20-vc-education/) 
 | 13 Sep 2021 | [DCC Learner Wallet Update](https://w3c-ccg.github.io/meetings/2021-09-13-vc-education) 
 | 6 Sep 2021  | No Meeting - US Holiday: Labor Day
 | 30 Aug 2021 | [Europass as VCs](https://w3c-ccg.github.io/meetings/2021-08-30-vc-education/)
