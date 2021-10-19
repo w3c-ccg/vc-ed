@@ -4,7 +4,6 @@ We encourage contributions meeting the [Contribution Guidelines](CONTRIBUTING.md
 
 Co-chairs:
 - Kerri Lemoie, Concentric Sky/Badgr
-- Anthony Camilleri, Knowledge Innovation Centre
 
 ## Meeting information
 
@@ -28,6 +27,9 @@ IRC Chat:
 
 | Date        | Topic |
 |-------------|-------|
+| 18 Oct 2021 | [Charter & Use Cases](https://w3c-ccg.github.io/meetings/2021-10-18-vc-education/) 
+| 04 Oct 2021 | No Meeting
+| 27 Sep 2021 | No Meeting
 | 20 Sep 2021 | [Charter & Scope Discussion](https://w3c-ccg.github.io/meetings/2021-09-20-vc-education/) 
 | 13 Sep 2021 | [DCC Learner Wallet Update](https://w3c-ccg.github.io/meetings/2021-09-13-vc-education) 
 | 6 Sep 2021  | No Meeting - US Holiday: Labor Day
