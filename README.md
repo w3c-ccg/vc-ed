@@ -27,7 +27,8 @@ IRC Chat:
 
 | Date        | Topic |
 |-------------|-------|
-| 01 NOV 2021 | [VC-EDU Task Force Co-Chair Election Begins & Use Cases from Matt Lisle (Georgia Tech)](https://w3c-ccg.github.io/meetings/2021-11-01-vc-education)
+| 08 Nov 2021 | [k-12 Use Case from Learning Economy Foundation] (https://w3c-ccg.github.io/meetings/2021-11-08-vc-education)
+| 01 Nov 2021 | [VC-EDU Task Force Co-Chair Election Begins & Use Cases from Matt Lisle (Georgia Tech)](https://w3c-ccg.github.io/meetings/2021-11-01-vc-education)
 | 25 Oct 2021 | [Finalize Charter & Use Cases from David Ward](https://w3c-ccg.github.io/meetings/2021-10-25-vc-education/) 
 | 18 Oct 2021 | [Charter & Use Cases](https://w3c-ccg.github.io/meetings/2021-10-18-vc-education/) 
 | 04 Oct 2021 | No Meeting
