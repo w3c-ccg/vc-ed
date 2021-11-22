@@ -11,7 +11,7 @@ We meet Mondays at 8am PDT / 11am EDT / 4pm BST / 5pm CEST. [More Timezones](htt
 
 Add to calendar: 
 
-<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=N2JucGsxYWlkOHZqcGswcWhmbTRjbmpiMDRfMjAyMDExMDJUMTYwMDAwWiA2YTRicTE3bm84NHNzbmFkY2NtMGoyMTMzZ0Bn&amp;tmsrc=6a4bq17no84ssnadccm0j2133g%40group.calendar.google.com&amp;scp=ALL"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
+<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=N2JucGsxYWlkOHZqcGswcWhmbTRjbmpiMDRfMjAyMTExMjJUMTYwMDAwWiBrbGVtb2llQGNvbmNlbnRyaWNza3kuY29t&amp;tmsrc=klemoie%40concentricsky.com&amp;scp=ALL"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
 
 Jitsi: [https://meet.w3c-ccg.org/education](https://meet.w3c-ccg.org/education)
 
