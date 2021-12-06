@@ -5,6 +5,10 @@ We encourage contributions meeting the [Contribution Guidelines](CONTRIBUTING.md
 Co-chairs:
 - Kerri Lemoie, Concentric Sky/Badgr
 
+## Email List
+
+[https://lists.w3.org/Archives/Public/public-vc-edu/](https://lists.w3.org/Archives/Public/public-vc-edu/)
+
 ## Meeting information
 
 We meet Mondays at 8am PDT / 11am EDT / 4pm BST / 5pm CEST. [More Timezones](https://www.timeanddate.com/worldclock/converter.html?iso=20210412T150000&p1=tz_pt&p2=tz_et&p3=tz_bst&p4=tz_cest)
