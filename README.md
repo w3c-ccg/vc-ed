@@ -31,6 +31,7 @@ IRC Chat:
 
 | Date        | Topic |
 |-------------|-------|
+| 06 Dec 2021 | [Co-chair Election Results & Single Assertion Endorsement Credentials Discussion with Phil Long (T3 LER Network)](https://w3c-ccg.github.io/meetings/2021-12-06-vc-education/index.html)
 | 29 Nov 2021 | No Meeting
 | 22 Nov 2021 | [VC-EDU Co-Chair Candidates](https://w3c-ccg.github.io/meetings/2021-11-22-vc-education)
 | 08 Nov 2021 | [K-12 Use Case from Learning Economy Foundation](https://w3c-ccg.github.io/meetings/2021-11-08-vc-education)
