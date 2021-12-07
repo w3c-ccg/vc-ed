@@ -4,6 +4,8 @@ We encourage contributions meeting the [Contribution Guidelines](CONTRIBUTING.md
 
 Co-chairs:
 - Kerri Lemoie, Concentric Sky/Badgr
+- Dmitri Zagidulin, MIT/Digital Credentials Consortium
+- Simone Ravaioli, Digitary/Parchment
 
 ## Email List
 
