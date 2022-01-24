@@ -33,6 +33,8 @@ IRC Chat:
 
 | Date        | Topic |
 |-------------|-------|
+| 17 Jan 2022 | No Meeting
+| 10 Jan 2022 | [Use Cases & 2022 Planning](https://w3c-ccg.github.io/meetings/2022-01-10-vc-education/)
 | 27 Dec 2021 | No Meeting
 | 20 Dec 2021 | No Meeting
 | 13 Dec 2021 | [Simone Ravaioli - Canada & Europe Standardization Updates & End of Year Recap & Planning for 2022)](https://w3c-ccg.github.io/meetings/2021-12-13-vc-education/index.html)
