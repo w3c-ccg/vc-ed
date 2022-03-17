@@ -33,6 +33,8 @@ IRC Chat:
 
 | Date        | Topic |
 |-------------|-------|
+| 21 Feb 2022 | [Handling of Duplicate Credentials (Issuer and Wallet Considerations)](https://w3c-ccg.github.io/meetings/2022-02-21-vc-education/)
+| 14 Feb 2022 | No Meeting
 | 07 Feb 2022 | [Use Cases; Github Issues; VC-EDU Priorities Management](https://w3c-ccg.github.io/meetings/2022-02-07-vc-education/)
 | 31 Jan 2022 | [Discussion of Internationalization in Edu VCs](https://w3c-ccg.github.io/meetings/2022-01-31-vc-education/)
 | 24 Jan 2022 | [Use Cases & Blockcerts](https://w3c-ccg.github.io/meetings/2022-01-24-vc-education/)
