@@ -33,6 +33,7 @@ IRC Chat:
 
 | Date        | Topic |
 |-------------|-------|
+| 21 Mar 2022 | [About CCG Email Thread: "Centralization dangers of applying OpenID Connect to wallets"](https://w3c-ccg.github.io/meetings/2022-03-21-vc-education/)
 | 14 Mar 2022 | [Verifier Universal Interface](https://w3c-ccg.github.io/meetings/2022-03-14-vc-education/)
 | 07 Mar 2022 | [Web3 Onboarding Use Case](https://w3c-ccg.github.io/meetings/2022-03-07-vc-education/)
 | 21 Feb 2022 | [Handling of Duplicate Credentials (Issuer and Wallet Considerations)](https://w3c-ccg.github.io/meetings/2022-02-21-vc-education/)
