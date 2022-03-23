@@ -1,6 +1,6 @@
 # vc-ed
 
-We encourage contributions meeting the [Contribution Guidelines](CONTRIBUTING.md).  While we prefer the creation of issues and Pull Requests in the GitHub repository, discussions often occur on the [public-credentials](http://lists.w3.org/Archives/Public/public-credentials/) mailing list as well.
+We encourage contributions meeting the [Contribution Guidelines](CONTRIBUTING.md).  While we prefer the creation of issues and Pull Requests in the GitHub repository, discussions often occur on the [public-credentials](http://lists.w3.org/Archives/Public/public-credentials/) and [public-vc-edu](https://lists.w3.org/Archives/Public/public-vc-edu/) mailing lists as well.
 
 Co-chairs:
 - Kerri Lemoie, Concentric Sky/Badgr
