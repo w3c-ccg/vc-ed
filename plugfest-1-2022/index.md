@@ -1,6 +1,7 @@
-# JFF VC-EDU Interoperability Plugfest #1 
+# JFF & VC-EDU 
+## Interoperability Plugfest #1 
 
-## May/June 2022
+### May/June 2022
 
 ### Examples
 
