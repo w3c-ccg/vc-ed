@@ -6,10 +6,10 @@
 
 ##### Simple Open Badge as a VC
 `
-{\n
-  "@context": [\n
-    "https://www.w3.org/2018/credentials/v1",
-    "https://kayaelle.github.io/vc-ed/plugfest-1-2022/jff-vc-edu-plugfest-1-context.json"
+{  
+  "@context": [  
+    "https://www.w3.org/2018/credentials/v1",  
+    "https://kayaelle.github.io/vc-ed/plugfest-1-2022/jff-vc-edu-plugfest-1-context.json"  
   ],
   "type": [
     "VerifiableCredential",
