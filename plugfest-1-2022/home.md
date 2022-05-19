@@ -5,7 +5,7 @@
 #### Examples
 
 ##### Simple Open Badge as a VC
-`
+<pre>
 {  
   "@context": [  
     "https://www.w3.org/2018/credentials/v1",  
@@ -40,8 +40,9 @@
     "proofPurpose": "assertionMethod",
     "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..dEt4UQIzoQkS3yO89KnNSQBxCecNr98JUjZTjos5eQUNcRfW6xNbwMTjGciICXtBYdD6Mn7DJeBd4yf_i_QzAQ"
   }
-}`
-File: 
+}
+</pre>
+File: [plugfest-1-ex-1.json](plugfest-1-ex-1.json)
 
 ##### Bonus Badge with Images
 `
