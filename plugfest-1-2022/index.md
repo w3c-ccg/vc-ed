@@ -70,7 +70,10 @@ File: [plugfest-1-ex-1.json](plugfest-1-ex-1.json)
   ],
     "issuer": {
      "type": "Profile",
-      "id": "did:key:z6Mkv8wY2XpNF48tFHomipRnh6eBNT1H7YB53yLNK2NSJKmH"
+      "id": "did:key:z6Mkv8wY2XpNF48tFHomipRnh6eBNT1H7YB53yLNK2NSJKmH",
+      "name": "Jobs for the Future (JFF)",
+      "url": "https://www.jff.org/",
+      "image": "https://w3c-ccg.github.io/vc-ed/plugfest-1-2022/images/JFF_LogoLockup.png"
   },
   "issuanceDate": "2022-05-01T00:00:00Z",
   "credentialSubject": {
@@ -83,15 +86,16 @@ File: [plugfest-1-ex-1.json](plugfest-1-ex-1.json)
       "criteria": {
         "type": "Criteria",
         "narrative": "The first cohort of the JFF Plugfest 1 in May/June of 2021 collaborated to push interoperability of VCs in education forward."
-      }
+      },
+      "image": "https://w3c-ccg.github.io/vc-ed/plugfest-1-2022/images/plugfest-1-badge-image.png"
     }
   },
   "proof": {
     "type": "Ed25519Signature2018",
-    "created": "2022-05-19T20:50:20Z",
+    "created": "2022-05-19T20:48:35Z",
     "verificationMethod": "did:key:z6MktiSzqF9kqwdU8VkdBKx56EYzXfpgnNPUAGznpicNiWfn#z6MktiSzqF9kqwdU8VkdBKx56EYzXfpgnNPUAGznpicNiWfn",
     "proofPurpose": "assertionMethod",
-    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..-EJl5zgYOTXrMx-IuIDV5pUGPzckE21_vlUfLQKoyjYnpLT5SiJd8MwHzaMVgs4-Cq_IIuTuoto8nYbYlUnpCQ"
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..eTt6kQDHbIOUrZNnQwqFWS00eSEyZRBRuG1abs4sAPkSqa5BUz0X_gWO7vw2aDFwWfO6_2EyOfVD36i96XuKAg"
   }
 }
 </pre>
