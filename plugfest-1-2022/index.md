@@ -4,7 +4,16 @@
 ### May/June 2022
 
 ### Resources
-* [Plugfest Open Badges v3 context]
+
+* [VC Implementation Guide](https://www.w3.org/TR/vc-imp-guide/)
+* [Plugfest Open Badges v3 context](https://w3c-ccg.github.io/vc-ed/plugfest-1-2022/jff-vc-edu-plugfest-1-context.json)
+* [Open Badges 3.0](https://imsglobal.github.io/openbadges-specification/ob_v3p0.html)
+* [Universal Wallet](https://w3c-ccg.github.io/universal-wallet-interop-spec/)
+* [DCC Learner Credential Wallet](https://github.com/digitalcredentials/learner-credential-wallet)
+* [DCC Repository](https://github.com/digitalcredentials)
+* [DID Actor](https://api.did.actor/)
+* [Hosted platform to resolve and manage DIDs](https://godiddy.com/)
+* [DID DIF Universal Resolver](https://dev.uniresolver.io/)
 
 ### Examples
 
