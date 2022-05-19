@@ -1,7 +1,7 @@
 {
   "@context": [
     "https://www.w3.org/2018/credentials/v1",
-    "https://kayaelle.github.io/vc-ed/plugfest-1-2022/jff-vc-edu-plugfest-1-context.json"
+    "https://w3c-ccg.github.io/vc-ed/plugfest-1-2022/jff-vc-edu-plugfest-1-context.json"
   ],
   "type": [
     "VerifiableCredential",
@@ -12,7 +12,7 @@
       "id": "did:key:z6Mkv8wY2XpNF48tFHomipRnh6eBNT1H7YB53yLNK2NSJKmH",
       "name": "Jobs for the Future (JFF)",
       "url": "https://www.jff.org/",
-      "image": "https://kayaelle.github.io/vc-ed/plugfest-1-2022/images/JFF_LogoLockup.png"
+      "image": "https://w3c-ccg.github.io/vc-ed/plugfest-1-2022/images/JFF_LogoLockup.png"
   },
   "issuanceDate": "2022-05-01T00:00:00Z",
   "credentialSubject": {
@@ -26,14 +26,14 @@
         "type": "Criteria",
         "narrative": "The first cohort of the JFF Plugfest 1 in May/June of 2021 collaborated to push interoperability of VCs in education forward."
       },
-      "image": "https://kayaelle.github.io/vc-ed/plugfest-1-2022/images/plugfest-1-badge-image.png"
+      "image": "https://w3c-ccg.github.io/vc-ed/plugfest-1-2022/images/plugfest-1-badge-image.png"
     }
   },
   "proof": {
     "type": "Ed25519Signature2018",
-    "created": "2022-05-19T20:30:01Z",
+    "created": "2022-05-19T20:48:35Z",
     "verificationMethod": "did:key:z6MktiSzqF9kqwdU8VkdBKx56EYzXfpgnNPUAGznpicNiWfn#z6MktiSzqF9kqwdU8VkdBKx56EYzXfpgnNPUAGznpicNiWfn",
     "proofPurpose": "assertionMethod",
-    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..kCvMNnX8Hm1nEdf4HNWVxDUJ3TCfoyZopiUclTy-ASlBLW_i-mZQNSn8jh2eYAfhzG6mKJqYFikQyvao3MYzCg"
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..eTt6kQDHbIOUrZNnQwqFWS00eSEyZRBRuG1abs4sAPkSqa5BUz0X_gWO7vw2aDFwWfO6_2EyOfVD36i96XuKAg"
   }
 }
