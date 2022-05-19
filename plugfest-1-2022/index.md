@@ -2,9 +2,9 @@
 
 ## May/June 2022
 
-#### Examples
+### Examples
 
-##### Simple Open Badge as a VC
+#### Simple Open Badge as a VC
 <pre>
 {  
   "@context": [  
@@ -44,7 +44,7 @@
 </pre>
 File: [plugfest-1-ex-1.json](plugfest-1-ex-1.json)
 
-##### Bonus Badge with Images
+#### Bonus Badge with Images
 <pre>
 {
   "@context": [
@@ -86,4 +86,4 @@ File: [plugfest-1-ex-1.json](plugfest-1-ex-1.json)
   }
 }
 </pre>
-File: 
+File: [https://kayaelle.github.io/vc-ed/plugfest-1-2022/plugfest-1-ex-2.json](https://kayaelle.github.io/vc-ed/plugfest-1-2022/plugfest-1-ex-2.json)
