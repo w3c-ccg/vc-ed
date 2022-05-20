@@ -11,6 +11,7 @@
 * [Universal Wallet](https://w3c-ccg.github.io/universal-wallet-interop-spec/)
 * [DCC Learner Credential Wallet](https://github.com/digitalcredentials/learner-credential-wallet)
 * [DCC Repository](https://github.com/digitalcredentials)
+* [DCC Open Badges 3.0 Context NPM Module](https://github.com/digitalcredentials/open-badges-context)
 * [DID Actor](https://api.did.actor/)
 * [Hosted platform to resolve and manage DIDs](https://godiddy.com/)
 * [DID DIF Universal Resolver](https://dev.uniresolver.io/)
