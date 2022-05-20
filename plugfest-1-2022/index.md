@@ -30,7 +30,8 @@
   ],
     "issuer": {
      "type": "Profile",
-      "id": "did:key:z6Mkv8wY2XpNF48tFHomipRnh6eBNT1H7YB53yLNK2NSJKmH"
+      "id": "did:key:z6Mkv8wY2XpNF48tFHomipRnh6eBNT1H7YB53yLNK2NSJKmH",
+      "name": "Jobs for the Future (JFF)"
   },
   "issuanceDate": "2022-05-01T00:00:00Z",
   "credentialSubject": {
@@ -48,10 +49,10 @@
   },
   "proof": {
     "type": "Ed25519Signature2018",
-    "created": "2022-05-19T20:50:20Z",
+    "created": "2022-05-20T14:01:27Z",
     "verificationMethod": "did:key:z6MktiSzqF9kqwdU8VkdBKx56EYzXfpgnNPUAGznpicNiWfn#z6MktiSzqF9kqwdU8VkdBKx56EYzXfpgnNPUAGznpicNiWfn",
     "proofPurpose": "assertionMethod",
-    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..-EJl5zgYOTXrMx-IuIDV5pUGPzckE21_vlUfLQKoyjYnpLT5SiJd8MwHzaMVgs4-Cq_IIuTuoto8nYbYlUnpCQ"
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..tGwSg54AHnN4EIZrvDVSXbPh952dHFTnxmwlXuNsS3yi-IxWp1AMth0BgkSZBIlBTRsFb0T4GRaIf2ZIJuvqDg"
   }
 }
 </pre>
