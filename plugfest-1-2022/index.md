@@ -6,18 +6,19 @@
 
 #### Simple Open Badge as a VC
 <pre>
-{  
-  "@context": [  
-    "https://www.w3.org/2018/credentials/v1",  
-    "https://kayaelle.github.io/vc-ed/plugfest-1-2022/jff-vc-edu-plugfest-1-context.json"  
+{
+  "@context": [
+    "https://www.w3.org/2018/credentials/v1",
+    "https://w3c-ccg.github.io/vc-ed/plugfest-1-2022/jff-vc-edu-plugfest-1-context.json"
   ],
   "type": [
     "VerifiableCredential",
     "OpenBadgeCredential"
   ],
-    "issuer": {
-     "type": "Profile",
-      "id": "did:key:z6Mkv8wY2XpNF48tFHomipRnh6eBNT1H7YB53yLNK2NSJKmH"
+  "issuer": {
+    "type": "Profile",
+    "id": "did:key:z6MkrHKzgsahxBLyNAbLQyB1pcWNYC9GmywiWPgkrvntAZcj",
+    "name": "Jobs for the Future (JFF)"
   },
   "issuanceDate": "2022-05-01T00:00:00Z",
   "credentialSubject": {
@@ -35,10 +36,10 @@
   },
   "proof": {
     "type": "Ed25519Signature2018",
-    "created": "2022-05-19T19:37:47Z",
-    "verificationMethod": "did:key:z6MktiSzqF9kqwdU8VkdBKx56EYzXfpgnNPUAGznpicNiWfn#z6MktiSzqF9kqwdU8VkdBKx56EYzXfpgnNPUAGznpicNiWfn",
+    "created": "2022-05-26T20:31:11Z",
+    "verificationMethod": "did:key:z6MkrHKzgsahxBLyNAbLQyB1pcWNYC9GmywiWPgkrvntAZcj#z6MkrHKzgsahxBLyNAbLQyB1pcWNYC9GmywiWPgkrvntAZcj",
     "proofPurpose": "assertionMethod",
-    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..dEt4UQIzoQkS3yO89KnNSQBxCecNr98JUjZTjos5eQUNcRfW6xNbwMTjGciICXtBYdD6Mn7DJeBd4yf_i_QzAQ"
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..e7vekXR-WCFJGoPo9ClxVv_zaauy9NtbP6N-frqPh9aoDpG2UwvkljvTMAelvfep54blrEfxFMFrIdq2jqaVDA"
   }
 }
 </pre>
