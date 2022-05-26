@@ -5,6 +5,7 @@
 
 ### Resources
 
+* [Kick-off Meeting Deck](https://docs.google.com/presentation/d/1YoS3est-YnWO1tI7JjJDjSPSnIXJNon_TFosKyneaJg/edit?usp=sharing)
 * [VC Implementation Guide](https://www.w3.org/TR/vc-imp-guide/)
 * [Plugfest Open Badges v3 context](https://w3c-ccg.github.io/vc-ed/plugfest-1-2022/jff-vc-edu-plugfest-1-context.json)
 * [Open Badges 3.0](https://imsglobal.github.io/openbadges-specification/ob_v3p0.html)
