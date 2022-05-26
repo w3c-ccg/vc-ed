@@ -29,20 +29,11 @@
       "image": "https://kayaelle.github.io/vc-ed/plugfest-1-2022/images/plugfest-1-badge-image.png"
     }
   },
-  "proof": [
-    {
-      "type": "Ed25519Signature2018",
-      "created": "2022-05-19T20:30:01Z",
-      "verificationMethod": "did:key:z6MktiSzqF9kqwdU8VkdBKx56EYzXfpgnNPUAGznpicNiWfn#z6MktiSzqF9kqwdU8VkdBKx56EYzXfpgnNPUAGznpicNiWfn",
-      "proofPurpose": "assertionMethod",
-      "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..kCvMNnX8Hm1nEdf4HNWVxDUJ3TCfoyZopiUclTy-ASlBLW_i-mZQNSn8jh2eYAfhzG6mKJqYFikQyvao3MYzCg"
-    },
-    {
-      "type": "Ed25519Signature2018",
-      "created": "2022-05-26T20:35:47Z",
-      "verificationMethod": "did:key:z6MkrHKzgsahxBLyNAbLQyB1pcWNYC9GmywiWPgkrvntAZcj#z6MkrHKzgsahxBLyNAbLQyB1pcWNYC9GmywiWPgkrvntAZcj",
-      "proofPurpose": "assertionMethod",
-      "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..cIan2J2Y9FhP86ee-lTlP1tZNjiOy1obMUu7Kz2Xyf6KOxDSQdfm0Zy1_0h0v8QKd2_kLceyGGC-Jflz9IYyBw"
-    }
-  ]
+  "proof": {
+    "type": "Ed25519Signature2018",
+    "created": "2022-05-26T20:43:50Z",
+    "verificationMethod": "did:key:z6MkrHKzgsahxBLyNAbLQyB1pcWNYC9GmywiWPgkrvntAZcj#z6MkrHKzgsahxBLyNAbLQyB1pcWNYC9GmywiWPgkrvntAZcj",
+    "proofPurpose": "assertionMethod",
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..i6qtkTNW1lWzsPhqUVyU_80x-wifVuvdMqII5TIYpjWsp0fJ19r7gJReOpTvSMenWxd7rXj9RiyiT1xwB9OVBA"
+  }
 }
