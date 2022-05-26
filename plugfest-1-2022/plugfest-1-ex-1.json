@@ -7,10 +7,10 @@
     "VerifiableCredential",
     "OpenBadgeCredential"
   ],
-    "issuer": {
-     "type": "Profile",
-      "id": "did:key:z6Mkv8wY2XpNF48tFHomipRnh6eBNT1H7YB53yLNK2NSJKmH",
-      "name": "Jobs for the Future (JFF)"
+  "issuer": {
+    "type": "Profile",
+    "id": "did:key:z6MkrHKzgsahxBLyNAbLQyB1pcWNYC9GmywiWPgkrvntAZcj",
+    "name": "Jobs for the Future (JFF)"
   },
   "issuanceDate": "2022-05-01T00:00:00Z",
   "credentialSubject": {
@@ -28,9 +28,9 @@
   },
   "proof": {
     "type": "Ed25519Signature2018",
-    "created": "2022-05-20T14:01:27Z",
-    "verificationMethod": "did:key:z6MktiSzqF9kqwdU8VkdBKx56EYzXfpgnNPUAGznpicNiWfn#z6MktiSzqF9kqwdU8VkdBKx56EYzXfpgnNPUAGznpicNiWfn",
+    "created": "2022-05-26T20:31:11Z",
+    "verificationMethod": "did:key:z6MkrHKzgsahxBLyNAbLQyB1pcWNYC9GmywiWPgkrvntAZcj#z6MkrHKzgsahxBLyNAbLQyB1pcWNYC9GmywiWPgkrvntAZcj",
     "proofPurpose": "assertionMethod",
-    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..tGwSg54AHnN4EIZrvDVSXbPh952dHFTnxmwlXuNsS3yi-IxWp1AMth0BgkSZBIlBTRsFb0T4GRaIf2ZIJuvqDg"
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..e7vekXR-WCFJGoPo9ClxVv_zaauy9NtbP6N-frqPh9aoDpG2UwvkljvTMAelvfep54blrEfxFMFrIdq2jqaVDA"
   }
 }

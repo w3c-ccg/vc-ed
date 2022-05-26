@@ -37,10 +37,10 @@
     "VerifiableCredential",
     "OpenBadgeCredential"
   ],
-    "issuer": {
-     "type": "Profile",
-      "id": "did:key:z6Mkv8wY2XpNF48tFHomipRnh6eBNT1H7YB53yLNK2NSJKmH",
-      "name": "Jobs for the Future (JFF)"
+  "issuer": {
+    "type": "Profile",
+    "id": "did:key:z6MkrHKzgsahxBLyNAbLQyB1pcWNYC9GmywiWPgkrvntAZcj",
+    "name": "Jobs for the Future (JFF)"
   },
   "issuanceDate": "2022-05-01T00:00:00Z",
   "credentialSubject": {
@@ -58,10 +58,10 @@
   },
   "proof": {
     "type": "Ed25519Signature2018",
-    "created": "2022-05-20T14:01:27Z",
-    "verificationMethod": "did:key:z6MktiSzqF9kqwdU8VkdBKx56EYzXfpgnNPUAGznpicNiWfn#z6MktiSzqF9kqwdU8VkdBKx56EYzXfpgnNPUAGznpicNiWfn",
+    "created": "2022-05-26T20:31:11Z",
+    "verificationMethod": "did:key:z6MkrHKzgsahxBLyNAbLQyB1pcWNYC9GmywiWPgkrvntAZcj#z6MkrHKzgsahxBLyNAbLQyB1pcWNYC9GmywiWPgkrvntAZcj",
     "proofPurpose": "assertionMethod",
-    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..tGwSg54AHnN4EIZrvDVSXbPh952dHFTnxmwlXuNsS3yi-IxWp1AMth0BgkSZBIlBTRsFb0T4GRaIf2ZIJuvqDg"
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..e7vekXR-WCFJGoPo9ClxVv_zaauy9NtbP6N-frqPh9aoDpG2UwvkljvTMAelvfep54blrEfxFMFrIdq2jqaVDA"
   }
 }
 </pre>
@@ -78,12 +78,12 @@ File: [plugfest-1-ex-1.json](plugfest-1-ex-1.json)
     "VerifiableCredential",
     "OpenBadgeCredential"
   ],
-    "issuer": {
-     "type": "Profile",
-      "id": "did:key:z6Mkv8wY2XpNF48tFHomipRnh6eBNT1H7YB53yLNK2NSJKmH",
-      "name": "Jobs for the Future (JFF)",
-      "url": "https://www.jff.org/",
-      "image": "https://w3c-ccg.github.io/vc-ed/plugfest-1-2022/images/JFF_LogoLockup.png"
+  "issuer": {
+    "type": "Profile",
+    "id": "did:key:z6MkrHKzgsahxBLyNAbLQyB1pcWNYC9GmywiWPgkrvntAZcj",
+    "name": "Jobs for the Future (JFF)",
+    "url": "https://www.jff.org/",
+    "image": "https://kayaelle.github.io/vc-ed/plugfest-1-2022/images/JFF_LogoLockup.png"
   },
   "issuanceDate": "2022-05-01T00:00:00Z",
   "credentialSubject": {
@@ -102,11 +102,11 @@ File: [plugfest-1-ex-1.json](plugfest-1-ex-1.json)
   },
   "proof": {
     "type": "Ed25519Signature2018",
-    "created": "2022-05-19T20:48:35Z",
-    "verificationMethod": "did:key:z6MktiSzqF9kqwdU8VkdBKx56EYzXfpgnNPUAGznpicNiWfn#z6MktiSzqF9kqwdU8VkdBKx56EYzXfpgnNPUAGznpicNiWfn",
+    "created": "2022-05-26T20:43:50Z",
+    "verificationMethod": "did:key:z6MkrHKzgsahxBLyNAbLQyB1pcWNYC9GmywiWPgkrvntAZcj#z6MkrHKzgsahxBLyNAbLQyB1pcWNYC9GmywiWPgkrvntAZcj",
     "proofPurpose": "assertionMethod",
-    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..eTt6kQDHbIOUrZNnQwqFWS00eSEyZRBRuG1abs4sAPkSqa5BUz0X_gWO7vw2aDFwWfO6_2EyOfVD36i96XuKAg"
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..i6qtkTNW1lWzsPhqUVyU_80x-wifVuvdMqII5TIYpjWsp0fJ19r7gJReOpTvSMenWxd7rXj9RiyiT1xwB9OVBA"
   }
 }
 </pre>
-File: [https://kayaelle.github.io/vc-ed/plugfest-1-2022/plugfest-1-ex-2.json](https://kayaelle.github.io/vc-ed/plugfest-1-2022/plugfest-1-ex-2.json)
+File: [plugfest-1-ex-2.json](plugfest-1-ex-2.json)
