@@ -1,10 +1,15 @@
 # vc-ed
 
-We encourage contributions meeting the [Contribution Guidelines](CONTRIBUTING.md).  While we prefer the creation of issues and Pull Requests in the GitHub repository, discussions often occur on the [public-credentials](http://lists.w3.org/Archives/Public/public-credentials/) mailing list as well.
+We encourage contributions meeting the [Contribution Guidelines](CONTRIBUTING.md).  While we prefer the creation of issues and Pull Requests in the GitHub repository, discussions often occur on the [public-credentials](http://lists.w3.org/Archives/Public/public-credentials/) and [public-vc-edu](https://lists.w3.org/Archives/Public/public-vc-edu/) mailing lists as well.
 
 Co-chairs:
-- Kim Hamilton Duffy, MIT/Digital Credentials Consortium
-- Anthony Camilleri, Knowledge Innovation Centre
+- Kerri Lemoie, Concentric Sky/Badgr
+- Dmitri Zagidulin, MIT/Digital Credentials Consortium
+- Simone Ravaioli, Digitary/Parchment
+
+## Email List
+
+[https://lists.w3.org/Archives/Public/public-vc-edu/](https://lists.w3.org/Archives/Public/public-vc-edu/)
 
 ## Meeting information
 
@@ -12,7 +17,7 @@ We meet Mondays at 8am PDT / 11am EDT / 4pm BST / 5pm CEST. [More Timezones](htt
 
 Add to calendar: 
 
-<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=N2JucGsxYWlkOHZqcGswcWhmbTRjbmpiMDRfMjAyMDExMDJUMTYwMDAwWiA2YTRicTE3bm84NHNzbmFkY2NtMGoyMTMzZ0Bn&amp;tmsrc=6a4bq17no84ssnadccm0j2133g%40group.calendar.google.com&amp;scp=ALL"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
+<a target="_blank" href="https://calendar.google.com/calendar/u/0/r/eventedit/copy/N2JucGsxYWlkOHZqcGswcWhmbTRjbmpiMDRfMjAyMjAyMDdUMTYwMDAwWiA2YTRicTE3bm84NHNzbmFkY2NtMGoyMTMzZ0Bn/a2xlbW9pZUBjb25jZW50cmljc2t5LmNvbQ?sf=true"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
 
 Jitsi: [https://meet.w3c-ccg.org/education](https://meet.w3c-ccg.org/education)
 
@@ -28,6 +33,47 @@ IRC Chat:
 
 | Date        | Topic |
 |-------------|-------|
+| 18 apr 2022 | [PDFS as VCs with James Chartrand from McMaster University"](https://w3c-ccg.github.io/meetings/2022-04-18-vc-education/)
+| 21 Mar 2022 | [About CCG Email Thread: "Centralization dangers of applying OpenID Connect to wallets"](https://w3c-ccg.github.io/meetings/2022-03-21-vc-education/)
+| 14 Mar 2022 | [Verifier Universal Interface](https://w3c-ccg.github.io/meetings/2022-03-14-vc-education/)
+| 07 Mar 2022 | [Web3 Onboarding Use Case](https://w3c-ccg.github.io/meetings/2022-03-07-vc-education/)
+| 21 Feb 2022 | [Handling of Duplicate Credentials (Issuer and Wallet Considerations)](https://w3c-ccg.github.io/meetings/2022-02-21-vc-education/)
+| 14 Feb 2022 | No Meeting
+| 07 Feb 2022 | [Use Cases; Github Issues; VC-EDU Priorities Management](https://w3c-ccg.github.io/meetings/2022-02-07-vc-education/)
+| 31 Jan 2022 | [Discussion of Internationalization in Edu VCs](https://w3c-ccg.github.io/meetings/2022-01-31-vc-education/)
+| 24 Jan 2022 | [Use Cases & Blockcerts](https://w3c-ccg.github.io/meetings/2022-01-24-vc-education/)
+| 17 Jan 2022 | No Meeting
+| 10 Jan 2022 | [Use Cases & 2022 Planning](https://w3c-ccg.github.io/meetings/2022-01-10-vc-education/)
+| 27 Dec 2021 | No Meeting
+| 20 Dec 2021 | No Meeting
+| 13 Dec 2021 | [Simone Ravaioli - Canada & Europe Standardization Updates & End of Year Recap & Planning for 2022)](https://w3c-ccg.github.io/meetings/2021-12-13-vc-education/index.html)
+| 06 Dec 2021 | [Co-chair Election Results & Single Assertion Endorsement Credentials Discussion with Phil Long (T3 LER Network)](https://w3c-ccg.github.io/meetings/2021-12-06-vc-education/index.html)
+| 29 Nov 2021 | No Meeting
+| 22 Nov 2021 | [VC-EDU Co-Chair Candidates](https://w3c-ccg.github.io/meetings/2021-11-22-vc-education)
+| 08 Nov 2021 | [K-12 Use Case from Learning Economy Foundation](https://w3c-ccg.github.io/meetings/2021-11-08-vc-education)
+| 01 Nov 2021 | [VC-EDU Task Force Co-Chair Election Begins & Use Cases from Matt Lisle (Georgia Tech)](https://w3c-ccg.github.io/meetings/2021-11-01-vc-education)
+| 25 Oct 2021 | [Finalize Charter & Use Cases from David Ward](https://w3c-ccg.github.io/meetings/2021-10-25-vc-education/) 
+| 18 Oct 2021 | [Charter & Use Cases](https://w3c-ccg.github.io/meetings/2021-10-18-vc-education/) 
+| 04 Oct 2021 | No Meeting
+| 27 Sep 2021 | No Meeting
+| 20 Sep 2021 | [Charter & Scope Discussion](https://w3c-ccg.github.io/meetings/2021-09-20-vc-education/) 
+| 13 Sep 2021 | [DCC Learner Wallet Update](https://w3c-ccg.github.io/meetings/2021-09-13-vc-education) 
+| 6 Sep 2021  | No Meeting - US Holiday: Labor Day
+| 30 Aug 2021 | [Europass as VCs](https://w3c-ccg.github.io/meetings/2021-08-30-vc-education/)
+| 23 Aug 2021 | No Meeting
+| 16 Aug 2021 | [Update on Open Badges Alignment with VCs](https://w3c-ccg.github.io/meetings/2021-08-16-vc-education/)
+| 09 Aug 2021 | No Meeting
+| 02 Aug 2021 | [Use Cases Discussion](https://w3c-ccg.github.io/meetings/2021-08-02-vc-education/)
+| 26 Jul 2021 | [Open Badges 3.0 Proposal Update; Complex Credentials Breakout Group](https://w3c-ccg.github.io/meetings/2021-07-26-vc-education/)
+| 19 Jul 2021 | [Open Badges 3.0 Proposal Review](https://w3c-ccg.github.io/meetings/2021-07-19-vc-education/)
+| 21 Jun 2021 | [Open Badges and VCs, cont'd](https://w3c-ccg.github.io/meetings/2021-06-21-vc-education/)
+| 7 Jun 2021 |  [Open Badges and VC Assertions](https://w3c-ccg.github.io/meetings/2021-06-07-vc-education/)
+| 24 May 2021 | [Open Badges v3](https://w3c-ccg.github.io/meetings/2021-05-24-vc-education/)
+| 17 May 2021 | [Payloads Discussion, continued](https://w3c-ccg.github.io/meetings/2021-05-17-vc-education/)
+| 10 May 2021 | [The Problem with Payloads](https://w3c-ccg.github.io/meetings/2021-05-10-vc-education/)
+| 26 Apr 2021 | [US DoEd Wallet Project](https://w3c-ccg.github.io/meetings/2021-04-26-vc-education/)
+| 19 Apr 2021 | [Activities examples and Base Structure for activity/competence/achievement/involvement](https://w3c-ccg.github.io/meetings/2021-04-19-vc-education/)
+| 12 Apr 2021 | [Issue review, relations, and widening concept "outcomes"](https://w3c-ccg.github.io/meetings/2021-04-12-vc-education/)
 | 29 Mar 2021 | [Milestone 1/2 approval; Base Structure for activity/competence/achievement/involvement](https://w3c-ccg.github.io/meetings/2021-03-29-vc-education/)
 | 15 Mar 2021 | [Milestone 1/2 review and working session](https://w3c-ccg.github.io/meetings/2021-03-15-vc-education/)
 | 1 Mar 2021 | [Milestone 1/2/3 review](https://w3c-ccg.github.io/meetings/2021-03-01-vc-education/)

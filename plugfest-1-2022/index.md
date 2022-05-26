@@ -1,6 +1,28 @@
-# Plugfest 1 
+# JFF & VC-EDU 
+## Interoperability Plugfest #1 
 
-## May/June 2022
+### May/June 2022
+
+### Resources
+
+* [Kick-off Meeting Deck](https://docs.google.com/presentation/d/1YoS3est-YnWO1tI7JjJDjSPSnIXJNon_TFosKyneaJg/edit?usp=sharing)
+* [VC Implementation Guide](https://www.w3.org/TR/vc-imp-guide/)
+* [Plugfest Open Badges v3 context](https://w3c-ccg.github.io/vc-ed/plugfest-1-2022/jff-vc-edu-plugfest-1-context.json)
+* [Open Badges 3.0](https://imsglobal.github.io/openbadges-specification/ob_v3p0.html)
+* [Universal Wallet](https://w3c-ccg.github.io/universal-wallet-interop-spec/)
+* [DCC Learner Credential Wallet](https://github.com/digitalcredentials/learner-credential-wallet)
+* [DCC Repository](https://github.com/digitalcredentials)
+* [DCC Open Badges 3.0 Context NPM Module](https://github.com/digitalcredentials/open-badges-context)
+* [DID Actor](https://api.did.actor/)
+* [Hosted platform to resolve and manage DIDs](https://godiddy.com/)
+* [DID DIF Universal Resolver](https://dev.uniresolver.io/)
+
+### Requirements of Plugfest 1
+
+* Display: VC (Open Badge 3.0)
+* Display includes: VC required fileds plus badge image, issuer name, achievement name, achievement description, achievement criteria
+* Optional: issuer logo & other Open Badges v3 terms
+* Stretch: badge verification
 
 ### Examples
 
@@ -50,7 +72,7 @@ File: [plugfest-1-ex-1.json](plugfest-1-ex-1.json)
 {
   "@context": [
     "https://www.w3.org/2018/credentials/v1",
-    "https://kayaelle.github.io/vc-ed/plugfest-1-2022/jff-vc-edu-plugfest-1-context.json"
+    "https://w3c-ccg.github.io/vc-ed/plugfest-1-2022/jff-vc-edu-plugfest-1-context.json"
   ],
   "type": [
     "VerifiableCredential",
@@ -75,7 +97,7 @@ File: [plugfest-1-ex-1.json](plugfest-1-ex-1.json)
         "type": "Criteria",
         "narrative": "The first cohort of the JFF Plugfest 1 in May/June of 2021 collaborated to push interoperability of VCs in education forward."
       },
-      "image": "https://kayaelle.github.io/vc-ed/plugfest-1-2022/images/plugfest-1-badge-image.png"
+      "image": "https://w3c-ccg.github.io/vc-ed/plugfest-1-2022/images/plugfest-1-badge-image.png"
     }
   },
   "proof": {
