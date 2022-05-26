@@ -96,4 +96,4 @@ File: [plugfest-1-ex-1.json](plugfest-1-ex-1.json)
   ]
 }
 </pre>
-File: [plugfest-1-ex-2.json](plugfest-1-2022/plugfest-1-ex-2.json)
+File: [plugfest-1-ex-2.json](plugfest-1-ex-2.json)
