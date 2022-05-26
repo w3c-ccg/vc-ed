@@ -16,6 +16,13 @@
 * [Hosted platform to resolve and manage DIDs](https://godiddy.com/)
 * [DID DIF Universal Resolver](https://dev.uniresolver.io/)
 
+### Requirements of Plugfest 1
+
+* Display: VC (Open Badge 3.0)
+* Display includes: VC required fileds plus badge image, issuer name, achievement name, achievement description, achievement criteria
+* Optional: issuer logo & other Open Badges v3 terms
+* Stretch: badge verification
+
 ### Examples
 
 #### Simple Open Badge as a VC
