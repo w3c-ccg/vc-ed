@@ -56,12 +56,12 @@ File: [plugfest-1-ex-1.json](plugfest-1-ex-1.json)
     "VerifiableCredential",
     "OpenBadgeCredential"
   ],
-    "issuer": {
-     "type": "Profile",
-      "id": "did:key:z6Mkv8wY2XpNF48tFHomipRnh6eBNT1H7YB53yLNK2NSJKmH",
-      "name": "Jobs for the Future (JFF)",
-      "url": "https://www.jff.org/",
-      "image": "https://kayaelle.github.io/vc-ed/plugfest-1-2022/images/JFF_LogoLockup.png"
+  "issuer": {
+    "type": "Profile",
+    "id": "did:key:z6MkrHKzgsahxBLyNAbLQyB1pcWNYC9GmywiWPgkrvntAZcj",
+    "name": "Jobs for the Future (JFF)",
+    "url": "https://www.jff.org/",
+    "image": "https://kayaelle.github.io/vc-ed/plugfest-1-2022/images/JFF_LogoLockup.png"
   },
   "issuanceDate": "2022-05-01T00:00:00Z",
   "credentialSubject": {
@@ -78,13 +78,22 @@ File: [plugfest-1-ex-1.json](plugfest-1-ex-1.json)
       "image": "https://kayaelle.github.io/vc-ed/plugfest-1-2022/images/plugfest-1-badge-image.png"
     }
   },
-  "proof": {
-    "type": "Ed25519Signature2018",
-    "created": "2022-05-19T20:30:01Z",
-    "verificationMethod": "did:key:z6MktiSzqF9kqwdU8VkdBKx56EYzXfpgnNPUAGznpicNiWfn#z6MktiSzqF9kqwdU8VkdBKx56EYzXfpgnNPUAGznpicNiWfn",
-    "proofPurpose": "assertionMethod",
-    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..kCvMNnX8Hm1nEdf4HNWVxDUJ3TCfoyZopiUclTy-ASlBLW_i-mZQNSn8jh2eYAfhzG6mKJqYFikQyvao3MYzCg"
-  }
+  "proof": [
+    {
+      "type": "Ed25519Signature2018",
+      "created": "2022-05-19T20:30:01Z",
+      "verificationMethod": "did:key:z6MktiSzqF9kqwdU8VkdBKx56EYzXfpgnNPUAGznpicNiWfn#z6MktiSzqF9kqwdU8VkdBKx56EYzXfpgnNPUAGznpicNiWfn",
+      "proofPurpose": "assertionMethod",
+      "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..kCvMNnX8Hm1nEdf4HNWVxDUJ3TCfoyZopiUclTy-ASlBLW_i-mZQNSn8jh2eYAfhzG6mKJqYFikQyvao3MYzCg"
+    },
+    {
+      "type": "Ed25519Signature2018",
+      "created": "2022-05-26T20:35:47Z",
+      "verificationMethod": "did:key:z6MkrHKzgsahxBLyNAbLQyB1pcWNYC9GmywiWPgkrvntAZcj#z6MkrHKzgsahxBLyNAbLQyB1pcWNYC9GmywiWPgkrvntAZcj",
+      "proofPurpose": "assertionMethod",
+      "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..cIan2J2Y9FhP86ee-lTlP1tZNjiOy1obMUu7Kz2Xyf6KOxDSQdfm0Zy1_0h0v8QKd2_kLceyGGC-Jflz9IYyBw"
+    }
+  ]
 }
 </pre>
-File: [https://kayaelle.github.io/vc-ed/plugfest-1-2022/plugfest-1-ex-2.json](https://kayaelle.github.io/vc-ed/plugfest-1-2022/plugfest-1-ex-2.json)
+File: [plugfest-1-ex-2.json](plugfest-1-2022/plugfest-1-ex-2.json)
