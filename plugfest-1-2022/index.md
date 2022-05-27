@@ -26,7 +26,7 @@
 
 ### Examples
 
-#### Simple Open Badge as a VC
+#### Open Badge 3.0 with Badge Image & Required Fields
 <pre>
 {
   "@context": [
@@ -53,21 +53,22 @@
       "criteria": {
         "type": "Criteria",
         "narrative": "The first cohort of the JFF Plugfest 1 in May/June of 2021 collaborated to push interoperability of VCs in education forward."
-      }
+      },
+      "image": "https://w3c-ccg.github.io/vc-ed/plugfest-1-2022/images/plugfest-1-badge-image.png"
     }
   },
   "proof": {
     "type": "Ed25519Signature2018",
-    "created": "2022-05-26T20:31:11Z",
+    "created": "2022-05-27T15:08:03Z",
     "verificationMethod": "did:key:z6MkrHKzgsahxBLyNAbLQyB1pcWNYC9GmywiWPgkrvntAZcj#z6MkrHKzgsahxBLyNAbLQyB1pcWNYC9GmywiWPgkrvntAZcj",
     "proofPurpose": "assertionMethod",
-    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..e7vekXR-WCFJGoPo9ClxVv_zaauy9NtbP6N-frqPh9aoDpG2UwvkljvTMAelvfep54blrEfxFMFrIdq2jqaVDA"
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..-1WePLNRNxXq2wOJeLOsxf7kXQqQfQovWYqF6TZATp0CWnn1LL5ABWmsY_EcwtWXfh5KywsuTW_b0re2Y3epDQ"
   }
 }
 </pre>
 File: [plugfest-1-ex-1.json](plugfest-1-ex-1.json)
 
-#### Bonus Badge with Images
+#### Open Badge 3.0 with Optional & Required Fields
 <pre>
 {
   "@context": [
