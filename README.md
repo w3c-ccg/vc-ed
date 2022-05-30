@@ -4,7 +4,7 @@ We encourage contributions meeting the [Contribution Guidelines](CONTRIBUTING.md
 
 Co-chairs:
 - Kerri Lemoie, OpenWork Group, [Twitter](https://twitter.com/kayaelle), [LinkedIn](https://www.linkedin.com/in/kerrilemoie/)
-- Dmitri Zagidulin, MIT/Digital Credentials Consortium
+- Dmitri Zagidulin, MIT/Digital Credentials Consortium, [LinkedIn](https://www.linkedin.com/in/dzagidulin/)
 - Simone Ravaioli, Digitary/Parchment
 
 ## Email List
