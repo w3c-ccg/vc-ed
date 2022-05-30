@@ -5,7 +5,7 @@ We encourage contributions meeting the [Contribution Guidelines](CONTRIBUTING.md
 Co-chairs:
 - Kerri Lemoie, OpenWork Group, [Twitter](https://twitter.com/kayaelle), [LinkedIn](https://www.linkedin.com/in/kerrilemoie/)
 - Dmitri Zagidulin, MIT/Digital Credentials Consortium, [LinkedIn](https://www.linkedin.com/in/dzagidulin/)
-- Simone Ravaioli, Digitary/Parchment
+- Simone Ravaioli, Digitary/Parchment, [Twiiter](https://twitter.com/psykoreactor), [LinkedIn](https://www.linkedin.com/in/simoneravaioli/)
 
 ## Email List
 
@@ -28,6 +28,9 @@ IRC Chat:
 ## Work Items
 - [VC EDU Use Cases](https://w3c-ccg.github.io/vc-ed-use-cases/)
 - [VC EDU Models](https://w3c-ccg.github.io/vc-ed-models/)
+
+## Initiatives
+- [JFF & VC-EDU Interoperability PlugFest 1](https://w3c-ccg.github.io/vc-ed/plugfest-1-2022/)
 
 ## Meetings
 
