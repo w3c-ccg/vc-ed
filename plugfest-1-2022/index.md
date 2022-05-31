@@ -103,10 +103,10 @@ File: [plugfest-1-ex-1.json](plugfest-1-ex-1.json)
   },
   "proof": {
     "type": "Ed25519Signature2018",
-    "created": "2022-05-26T20:43:50Z",
+    "created": "2022-05-31T21:09:29Z",
     "verificationMethod": "did:key:z6MkrHKzgsahxBLyNAbLQyB1pcWNYC9GmywiWPgkrvntAZcj#z6MkrHKzgsahxBLyNAbLQyB1pcWNYC9GmywiWPgkrvntAZcj",
     "proofPurpose": "assertionMethod",
-    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..i6qtkTNW1lWzsPhqUVyU_80x-wifVuvdMqII5TIYpjWsp0fJ19r7gJReOpTvSMenWxd7rXj9RiyiT1xwB9OVBA"
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..Q05Nb7ufRWi8b8MO11einZZzRgwU9iauqiKoB-tKCGRUIGWTM_-HUQMXsSE9rYm3wuv45qa5gl4TIl5lwWgvDA"
   }
 }
 </pre>
