@@ -3,6 +3,8 @@
 
 ### May/June 2022
 
+[Participants List with Videos](https://w3c-ccg.github.io/vc-ed/plugfest-1-2022/participants.html)
+
 ### Resources
 
 * [Kick-off Meeting Deck](https://docs.google.com/presentation/d/1YoS3est-YnWO1tI7JjJDjSPSnIXJNon_TFosKyneaJg/edit?usp=sharing)
