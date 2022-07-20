@@ -36,6 +36,10 @@ IRC Chat:
 
 | Date        | Topic |
 |-------------|-------|
+| 18 Jul 2022 | [JFF VC-EDU Plugfest #2](https://w3c-ccg.github.io/meetings/2022-07-18-vc-education/))
+| 11 Jul 2022 | No Meeting
+| 04 Jul 2022 | No Meeting
+| 13 Jun 2022 | [JFF VC-EDU Plugfest #1 Recap](https://w3c-ccg.github.io/meetings/2022-06-13-vc-education/)
 | 30 May 2022 | No Meeting
 | 09 May 2022 | [VC-EDU Interoperability Plug Fest with Sharon Leu (JFF)](https://w3c-ccg.github.io/meetings/2022-05-09-vc-education/)
 | 02 May 2022 | [Internet Identity Workshop Overview](https://w3c-ccg.github.io/meetings/2022-05-02-vc-education/)
