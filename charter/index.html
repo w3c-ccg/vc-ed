@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Verifiable Credentials for Education Task Force Charter (VC-EDU)</title>
+    <meta http-equiv='Content-Type' content='text/html;charset=utf-8'/>
+    <!--
+      === NOTA BENE ===
+      For the three scripts below, if your spec resides on dev.w3 you can check them
+      out in the same tree and use relative links so that they'll work offline,
+     -->
+    <script src="https://www.w3.org/Tools/respec/respec-w3c" class="remove"></script>
+    <script type="text/javascript" class="remove">
+      var respecConfig = {
+        // specification status (e.g., WD, LCWD, NOTE, etc.). If in doubt use ED.
+        specStatus: "CG-DRAFT",
+        group: "credentials",
+
+        // the specification's short name, as in http://www.w3.org/TR/short-name/
+        shortName: "vc-ed-charter",
+
+        // subtitle for the spec
+        subtitle: "Charter specific to implementations of formal, informal, and non-formal education and training Verifiable Credentials",
+
+        // if you wish the publication date to be other than today, set this
+        //publishDate: "2019-03-26",
+        //crEnd: "2019-04-23",
+        //implementationReportURI: "https://w3c.github.io/sdh-test-suite",
+        previousMaturity: "UNOFFICIAL",
+        previousPublishDate: "2021-12-08",
+
+        // if there is a previously published draft, uncomment this and set its YYYY-MM-DD date
+        // and its maturity status
+        // previousPublishDate:  "1977-03-15",
+        // previousMaturity:  "WD",
+
+        // extend the bibliography entries
+      //  localBiblio: ccg.localBiblio,
+      //  doJsonLd: true,
+
+        github: "https://github.com/w3c-ccg/vc-ed/",
+        includePermalinks: false,
+
+        // if there a publicly available Editor's Draft, this is the link
+        edDraftURI: "https://w3c-ccg.github.io/vc-ed/",
+
+        // if this is a LCWD, uncomment and set the end of its review period
+        // lcEnd: "2009-08-05",
+
+        // editors, add as many as you like
+        // only "name" is required
+
+        editors: [
+          { name: "Deborah Everhart", url: "https://www.linkedin.com/in/deboraheverhart/",company: "Credential Engine", companyURL: "https://credentialengine.org/"},
+          { name: "Simone Ravaioli", url: "https://www.linkedin.com/in/simoneravaioli",company: "Parchment", companyURL: "https://www.parchment.com/"},
+          { name: "Phillip Long", url: "https://www.linkedin.com/in/longpd/",company: "RHz Consulting", companyURL: "https://www.linkedin.com/in/longpd/"}
+        ],
+        // authors, add as many as you like.
+        // This is optional, uncomment if you have authors as well as editors.
+        // only "name" is required. Same format as editors.
+        authors:
+        [
+          { name: "Kerri Lemoie", url: "https://www.linkedin.com/in/kerrilemoie",company: "MIT Digital Credential Consortium", companyURL: "https://digitalcredentials.mit.edu/"},
+          { name: "Kim Hamilton Duffy", url: "https://www.okimsrazor.com/",
+            company: "Centre", companyURL: "https://www.centre.io/"},
+            { name: "Anthony Camilleri", url: "http://www.linkedin.com/in/anthonyfcamilleri",
+            company: "Knowledge Innovation Centre", companyURL: "https://knowledgeinnovation.eu/"},
+        ],
+        // name of the WG
+        wg:           "Verifiable Credentials for Education Task Force",
+
+        // URI of the public WG page
+        wgURI:        "https://w3c-ccg.github.io/vc-ed/",
+
+        // name (with the @w3c.org) of the public mailing to which comments are due
+        wgPublicList: "public-vc-edu",
+
+        // URI of the patent status for this WG, for Rec-track documents
+        // !!!! IMPORTANT !!!!
+        // This is important for Rec-track documents, do not copy a patent URI from a random
+        // document unless you know what you're doing. If in doubt ask your friendly neighborhood
+        // Team Contact.
+        //wgPatentURI:  "https://www.w3.org/2004/01/pp-impl/98922/status",
+        maxTocLevel: 2,
+        inlineCSS: true
+      };
+    </script>
+    <style>
+pre .highlight {
+  font-weight: bold;
+  color: green;
+}
+pre .comment {
+  font-weight: bold;
+  color: Gray;
+}
+.color-text {
+  font-weight: bold;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+ol.algorithm {
+  counter-reset: numsection;
+  list-style-type: none;
+}
+ol.algorithm li {
+  margin: 0.5em 0;
+}
+ol.algorithm li:before {
+  font-weight: bold;
+  counter-increment: numsection;
+  content: counters(numsection, ".") ") ";
+}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+    </style>
+  </head>
+  <body>
+    <section id='abstract'>
+      <p>
+The Verifiable Credentials for Education Task Force will explore the use of Verifiable Credentials that represent education, employment, and achievement credentials. This will include pursuing data model recommendations that will demonstrate alignment with the VC model, usage guidelines, and best practices. 
+      </p>
+    </section>
+
+    <section id="history">
+      <h2>History</h2>
+      <p>
+        This effort was anchored in the <a href="https://digitalcredentials.mit.edu/" target="_blank">Digital Credentials Consortium (DCC)</a>, consisting of 12 universities, as it sought to collaborate with potential partners, implementers, and the public to further develop use cases and requirements. 
+      </p>
+
+      <p>The <a href="https://cdn.filestackcontent.com/preview/FeqEJI3S5KelmLv8XJss" target="_blank">LER Wrapper</a> effort bootstrapped the alignment of existing educational data standards via the LER/VC wrapper. This demonstrated how technology providers could build interoperable tooling at the wrapper/envelope level, staying agnostic to the contents, while enabling discoverability of metadata. The LER provided a base understanding of enabling interoperability/mapping at the content level via enriched linked data that informs the work of this effort.
+      </p>
+    </section>
+
+    <section id="scope">
+      <h2>Scope</h2>
+      <p>This effort attempts to bridge the VC ecosystem to the robust work already done in the education and training data standards space, to enable reuse of the great work done by experts in the space. Our main goal is discoverability of educational data standards frameworks, and informing implementers of how to use these in VCs.</p>
+
+      <p>Our work will help inform VC-EDU pilots, but will be forwarded as recommendations to relevant educational data standards bodies, representatives of which are active in this group. Educational data standards bodies rely on validation through real world use, which the umbrella of the W3C-CCG can provide.</p>
+
+      <p>The scope may include:
+
+        <ol>
+          <li>Demonstrating how learning, employment, and achievement credentials can be issued as Verifiable Credentials.</li>
+          <li>Providing guidance to data standards shifting to direct alignment with Verifiable Credentials</li>
+          <li>How to promote re-use of linked data, contexts, and vocabularies.</li>
+          <li>Encourage understanding of VCs in education through discussion, documentation, and models</li>
+          <li>Format: Many existing educational data standards use formats that are not JSON/JSON-LD (example: XML & PDFs). But how widely are these used (and in which use cases)? Do existing ecosystems have strong preferences in favor of continued XML use? (As an RDF graph, we can theoretically support this, but would be a new path)</li>
+          <li>How to preserve the architectural principles of learner (recipient) control and privacy? i.e. do the existing data standards assume personally identifiable information is present in the credential? </li>
+          <li>Explore practical ways to use DIDs for integration with existing education and training credentialing processes/systems & other auth methods?</li>
+          <li>Expand on generally under-explored aspects of Verifiable Credential usage to promote learner agency and privacy, i.e.“terms of use”</li>
+          <li>Explore lifecycle considerations, specifically around credential recovery</li>
+          <li>Explore and understand the application of Verifiable Presentation as it relates to asserting a single VC, multiple individual VCs in a VP, and a multi-assertion VC as a VP.</li>
+        </ol>
+      </p>
+    </section>
+
+    <section id="approaches">
+      <h2>Approaches to Interoperability</h2>
+      <p>Our approaches to interoperability are the following:</p>
+
+      <table>
+        <tr>
+          <th><strong>Standards Class</strong></th>
+          <th><strong>Approach</strong></th>
+        </tr>
+        <tr>
+          <td>VC in Education Standards</td>
+          <td>We aim to be the definitive standard for VCEd - ideally other VCEd standards should be extensions of the VCEd standard.</td>
+        </tr>
+        <tr>
+          <td>Credential System Standards</td>
+          <td>We aim to allow for educational & training standards to be semantically interoperable and harmonized with VC standards.</td>
+        </tr>
+        <tr>
+          <td>Vocabulary Standards</td>
+          <td>We aim to use existing vocabularies if and when they are suitable for purpose: CTDL, schema.org, Europass Code Lists, IMS Global Common Data Model (current: Open Badges, CLR)</td>
+        </tr>
+      </table>
+
+    </section>
+
+    <section id="participation">
+      <h2>Participation</h2>
+      <p>The task force will host roughly hour-long weekly calls, at a separate time from the CCG weekly calls, over Jitsi. These minutes and an audio recording of everything said on this call are archived at <a href="https://w3c-ccg.github.io/meetings" target="_blank">https://w3c-ccg.github.io/meetings"</a>.
+      </p>
+
+      <p>Anyone can participate in these calls. However, all substantive contributors to any CCG Work Items must be members of the CCG</a> with full IPR agreements signed. To become a member, create a <a href="https://www.w3.org/accounts/request" target="_blank">W3 account</a> and then use this account to <a href="https://www.w3.org/community/credentials/join" target="_blank">sign in and join the CCG</a> and agree to the <a href="https://www.w3.org/community/about/agreements/cla/" target="_blank">W3C Community Contributor License Agreement</a>
+      </p>
+
+    </section>
+
+    <section id="communication">
+      <h2>Communication</h2>
+     <p> The <a href="https://lists.w3.org/Archives/Public/public-credentials/" target="_blank">CCG mailing list</a> will serve as the primary communication resource for VC specific implementation questions and all other questions related to the wider credentials community group. This task force will use the <a href="https://lists.w3.org/Archives/Public/public-vc-edu/" target="_blank">VC-EDU mailing list</a> to discuss use cases, data modeling, usage, and best practices for the educational and occupational perspectives. </p>
+
+      <p>This task force will report back status during the CCG calls. Meeting minutes and audio recordings will be distributed to the VC-EDU and CCG mailing lists and linked to on the VC-EDU site.</p>
+    </section>
+
+    <section id="work-principles">
+    <h2>General Work Principles</h2>
+
+      <ul>
+      <li>All decisions shall be taken by consensus</li>
+      <li>Ne bis in idem – in the context of a given work item, once consensus is reached in the group on a topic, this should not be reopened absent new data, or a consensus of the group to reopen.</li>
+      <li>Radical Transparency and Openness</li>
+      <li>Use Case Focused – everything we do must cover a use case. Where objections to proposals are raised, they should always be related to a use case. Ideally use cases should exist, but theoretical or potential use cases will be accepted if appropriately described.</li>
+      </ul>
+    </section>
+
+    <section id="work-item-process">
+    <h2>Work Items Process</h2>
+
+    <ul>
+      <li>Any member of W3C can propose a work item</li>
+      <li>The work item process will follow the <a href="https://w3c-ccg.github.io/workitem-process/" target="_blank">CCG Work Item Process</a> including these requirements:
+        <li>at least one group member willing to commit to being the first editor</li>
+        <li>another group member (from a different company/organization) willing to be a co-editor</li>
+        <li>a suggested timeline</li>
+        <li>address the <a href="https://w3c-ccg.github.io/workitem-process/#work-item" target="_blank">work item</a> questions in their <a href="https://w3c-ccg.github.io/workitem-process/#proposal" target="_blank">proposal</a></li>
+        <li>a link to the <a href="https://www.w3.org/Consortium/cepc/" target="_blank">W3C Code of Ethics and Professional Conduct</a></li>
+        <li>the expected <a href="https://w3c-ccg.github.io/workitem-process/#type" target="_blank">work item type</a></li>
+      </li>
+    </ul>
+  </section>
+  <section id="work-item-process">
+    <h2>Relationships to External Groups & Initiatives</h2>
+    <h3>Closely Related CCG Initiatives & Foundational Groups</h3>
+    <p>      
+      <ul>
+        <li><a href="https://github.com/w3c-ccg/community/blob/master/work_items.md" target="_blank">Credentials Community Group Work Items</a></li>
+        <li><a href="https://w3c-ccg.github.io/" target="_blank">W3C Credentials Community Group</a></li>
+        <li><a href="https://github.com/w3c-ccg/did-resolution" target="_blank">W3C CCG did-resolution</a></li>
+        <li><a href="https://github.com/decentralized-identity/confidential-storage" target="_blank">W3C CCG Confidential Storage</a></li>
+      </ul>
+    </p>
+
+    <h3>Education and Training Data Standards Groups</h3>
+    <p>These include, but are not limited to:
+      <ul>
+        <li><a href="https://www.1edtech.org/">1EdTech</a></li>
+        <li><a href="https://standards.iteh.ai/catalog/tc/cen/32b7c75a-6f43-4ca3-bc9b-f49d86f251d8/cen-tc-353">CEN TC353 (Europe)</a></li>
+        <li><a href="https://ciostrategycouncil.com/standards/">CIO Strategy Council in Canada (CIOSC)</a></li>
+        <li><a href="https://emrex.eu/">EMREX User Group (EUG)</a></li>
+        <li><a href="https://github.com/european-commission-empl/European-Learning-Model">Europass Learning Model (ELM)</a></li>
+        <li><a href="https://www.hropenstandards.org/">HR Open</a></li>
+        <li><a href="https://www.pesc.org/">Postsecondary Electronic Standards Council (PESC)</a></li>
+      </ul>
+    </p>
+    <h3>Others</h3>
+    <ul>
+      <li><a href="https://adlnet.gov/">ADL</a></li>
+      <li><a href="https://identity.foundation/">Decentralized Identity Foundation (DIF)</a></li>
+      <li><a href="https://credentialengine.org/">Credential Engine Family of Specifications:</a>
+      <ul>
+        <li><a href="https://credreg.net/ctdl/handbook">Credential Transparency Description Language (CTDL)</a></li>
+        <li><a href="https://credreg.net/ctdlasn/terms">CTDL Profile of Achievement Standards Network Description Language (CTDL-ASN)</a></li>
+      </ul>
+      </li>
+      <li><a href="https://www.learningeconomy.io/">Learning Economy Foundation</a></li>
+      <li><a href="https://digitalcredentials.mit.edu/">MIT Digital Credentials Consortium</a></li>
+      <li><a href="https://www.openrecognition.org/">Open Recognition Alliance</a></li>
+      <li><a href="https://www.openskillsnetwork.org/">Open Skills Network - includes US Open Recognition Workgroup</a></li>
+      <li><a href="https://ec.europa.eu/digital-building-blocks/wikis/display/ebsi">European Blockchain Service Infrastructure - EBSI</a></li>
+      <li><a href="https://www.uschamberfoundation.org/t3-innovation">T3 Innovation Network</a>:
+        <ul>
+          <li><a href="https://lerhub.org/g/spuPWGbbjHZNycFem">Learning and Employment Records</a></li>
+          <li><a href="https://lerhub.org/g/3EhdfQPbmGLEMGgCE">Data & Technology Standards</a></li>
+          <li><a href="https://lerhub.org/g/enmxFg2pwTwmraK4z">Jobs & Workforce Data</a></li>
+          <li><a href="https://lerhub.org/g/qS3FyEHfRaMF7mho5">Open Competency Framework Collaborative</a></li>
+        </ul>
+      </li>
+    </ul>
+  </section>
+  <section id="deliverables">
+    <h2>Deliverables</h2>
+    <p>This task force will focus on further understanding questions called out above. We’ll capture our findings in the form of Community Reports, which could capture surveys, requirements, use cases, and/or draft specs to be formalized in the appropriate standards group.</p>
+
+    <p>The task force’s efforts will be prioritized by specific use cases brought by participants that will involve different content and purposes for education, employment, and achievement credentials, such as:
+
+      <ul>
+        <li>Awards</li>
+        <li>Certificates</li>
+        <li>Competencies</li>
+        <li>Diplomas</li>
+        <li>Fieldwork</li>
+        <li>Job training</li>
+        <li>License</li>
+        <li>Membership</li>
+        <li>Microcredential</li>
+        <li>Professional development</li>
+        <li>Transcripts</li>
+        <li>Other achievements (e.g. co-curricular activities, 5Ks, completing a novel writing program, recommendations, endorsements)</li>
+  </section>
+
+
+  </body>
+</html>
