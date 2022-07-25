@@ -7,6 +7,10 @@ Co-chairs:
 - Dmitri Zagidulin, MIT/Digital Credentials Consortium, [LinkedIn](https://www.linkedin.com/in/dzagidulin/)
 - Simone Ravaioli, Digitary/Parchment, [Twiiter](https://twitter.com/psykoreactor), [LinkedIn](https://www.linkedin.com/in/simoneravaioli/)
 
+## Charter
+
+[https://w3c-ccg.github.io/vc-ed/charter/](https://w3c-ccg.github.io/vc-ed/charter/)
+
 ## Email List
 
 [https://lists.w3.org/Archives/Public/public-vc-edu/](https://lists.w3.org/Archives/Public/public-vc-edu/)
@@ -36,7 +40,8 @@ IRC Chat:
 
 | Date        | Topic |
 |-------------|-------|
-| 18 Jul 2022 | [JFF VC-EDU Plugfest #2](https://w3c-ccg.github.io/meetings/2022-07-18-vc-education/))
+| 25 Jul 2022 | [DIDs 101 at VC-EDU](https://w3c-ccg.github.io/meetings/2022-07-25-vc-education/)
+| 18 Jul 2022 | [JFF VC-EDU Plugfest #2](https://w3c-ccg.github.io/meetings/2022-07-18-vc-education/)
 | 11 Jul 2022 | No Meeting
 | 04 Jul 2022 | No Meeting
 | 13 Jun 2022 | [JFF VC-EDU Plugfest #1 Recap](https://w3c-ccg.github.io/meetings/2022-06-13-vc-education/)
