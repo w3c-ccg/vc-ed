@@ -7,10 +7,10 @@
 
 The purpose of this event is to issue W3C Verifiable Credentials in the Open Badges v3 format and Decentralized Identifiers to wallets using protocols that are popular in the education and workforce ecosystem.
 
-[Requirements](#requirements)
-[Participation Overview](#participation-overview)
-[Frequentky Asked Questions](frequent;y-asked-questions)
-[Resources](#resources)
+* [Requirements](#requirements)
+* [Participation Overview](#participation-overview)
+* [Frequentky Asked Questions]#(frequently-asked-questions)
+* [Resources](#resources)
 
 ## Requirements
 
@@ -119,7 +119,6 @@ $10,000 will be available to each organization (wallet/issuer/both) that demonst
 
 ## Resources
 
-* [Kick-off Meeting Deck](https://docs.google.com/presentation/d/1YoS3est-YnWO1tI7JjJDjSPSnIXJNon_TFosKyneaJg/edit?usp=sharing)
 * [VC Implementation Guide](https://www.w3.org/TR/vc-imp-guide/)
 * [Open Badges 3.0](https://imsglobal.github.io/openbadges-specification/ob_v3p0.html)
 * [Universal Wallet](https://w3c-ccg.github.io/universal-wallet-interop-spec/)
