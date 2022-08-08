@@ -12,9 +12,9 @@ The purpose of this event is to issue W3C Verifiable Credentials in the Open Bad
 * [Frequentky Asked Questions](#frequently-asked-questions)
 * [Resources](#resources)
 
-## Requirements
-
 ---
+
+## Requirements
 
 ### Wallet Requirements
 
@@ -27,6 +27,7 @@ The purpose of this event is to issue W3C Verifiable Credentials in the Open Bad
 * Issue: Verifiable credential (OBv3) to at least two different wallets (using VC-API/CHAPI, OpenID Connect, and/or DID-Comm Presentation Exchange)
 * Optional Display: badge image, issuer name, issuer logo, achievement name, achievement description, achievement criteria, & other Open Badges v3 terms
 
+---
 
 ## Participation Overview
 ### Registering for Plugfest #2
@@ -51,6 +52,8 @@ If you need assistance with registration, please contact Joan Lee, [jlee@jfflabs
 | October 26, 2022    | PlugFest 2 Technical Meeting, Time TBD
 | November 9, 2022    |[tentative] Demo videos due
 | November 14, 2022   | PlugFest 2 Demo Day: IIW and virtual [details tbd]
+
+---
 
 ## Frequently Asked Questions
 
