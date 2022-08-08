@@ -122,12 +122,13 @@ $10,000 will be available to each organization (wallet/issuer/both) that demonst
 
 ## Resources
 
-* [VC Implementation Guide](https://www.w3.org/TR/vc-imp-guide/)
-* [Open Badges 3.0](https://imsglobal.github.io/openbadges-specification/ob_v3p0.html)
-* [Universal Wallet](https://w3c-ccg.github.io/universal-wallet-interop-spec/)
 * [DID Actor](https://api.did.actor/)
-* [Hosted platform to resolve and manage DIDs](https://godiddy.com/)
+* [DIDComm](https://didcomm.org/)
 * [DID DIF Universal Resolver](https://dev.uniresolver.io/)
-
-
-
+* [Hosted platform to resolve and manage DIDs](https://godiddy.com/[VC-API](https://github.com/w3c-ccg/vc-api/)
+* [OIDC- OpenID for VCs] (https://openid.net/wordpress-content/uploads/2022/05/OIDF-Whitepaper_OpenID-for-Verifiable-Credentials_FINAL_2022-05-12.pdf)
+* [Open Badges 3.0](https://imsglobal.github.io/openbadges-specification/ob_v3p0.html)
+* [Plugfest 1](https://w3c-ccg.github.io/vc-ed/plugfest-1-2022/)
+* [Plugfest 1 Participants](https://w3c-ccg.github.io/vc-ed/plugfest-1-2022/participants.html)
+* [Universal Wallet](https://w3c-ccg.github.io/universal-wallet-interop-spec/)
+* [VC Implementation Guide](https://www.w3.org/TR/vc-imp-guide/)
