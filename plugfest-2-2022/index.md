@@ -1,15 +1,15 @@
 # JFF & VC-EDU 
-## Interoperability Plugfest #2
+## Interoperability Plugfest 2
 
 ### August-November 2022
 
-### Demo Event: November 14, 2022 (9 am Pacific Time) - Computer History Museum, Mountain View, CA, USA
+**Demo Event: November 14, 2022 (9 am Pacific Time) - Computer History Museum, Mountain View, CA, USA**
 
 The purpose of this event is to issue W3C Verifiable Credentials in the Open Badges v3 format and Decentralized Identifiers to wallets using protocols that are popular in the education and workforce ecosystem.
 
 * [Requirements](#requirements)
 * [Participation Overview](#participation-overview)
-* [Frequentky Asked Questions]#(frequently-asked-questions)
+* [Frequentky Asked Questions](#frequently-asked-questions)
 * [Resources](#resources)
 
 ## Requirements
