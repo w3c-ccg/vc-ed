@@ -107,11 +107,11 @@ For the purpose of this plugfest, we will be focusing on a single achievement ve
 Yes.
 
 **Will DID Authentication be required?**
-Yes.
+Yes. Note that DID Authentication does not reuqire using DIDAuth protocol.
 
 **Who decides which DID method to use - wallet or credential issuing platforms?**
 
-It's a collaborative decision
+This will be a collaborative decision between wallets & issuers.
 
 ### Questions About Funding
 
@@ -132,3 +132,4 @@ $10,000 will be available to each organization (wallet/issuer/both) that demonst
 * [Plugfest 1 Participants](https://w3c-ccg.github.io/vc-ed/plugfest-1-2022/participants.html)
 * [Universal Wallet](https://w3c-ccg.github.io/universal-wallet-interop-spec/)
 * [VC Implementation Guide](https://www.w3.org/TR/vc-imp-guide/)
+* [VC Issuing Protocols Overview - slides](https://docs.google.com/presentation/d/12K8EIzFjzsC2i1WwfzggsXISGXZ64f1xwHJ5qO5rylc/edit#slide=id.p)
