@@ -53,8 +53,6 @@ If you need assistance with registration, please contact Joan Lee, [jlee@jfflabs
 | November 9, 2022    |[tentative] Demo videos due
 | November 14, 2022   | PlugFest 2 Demo Day: IIW and virtual [details tbd]
 
----
-
 ## Frequently Asked Questions
 
 ### Questions About Eligibility
@@ -123,6 +121,7 @@ This will be a collaborative decision between wallets & issuers.
 
 $10,000 will be available to each organization (wallet/issuer/both) that demonstrates successful execution of the technical requirements.  As in PlugFest 1, participants will be required to submit a video on ahead of demo day (November 14, 2022).  Additional information will be provided in September.
 
+---
 
 ## Resources
 
