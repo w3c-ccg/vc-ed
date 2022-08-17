@@ -109,7 +109,7 @@ No, we will provide an example that you may use but you may also use your own ba
 Yes.
 
 **Will DID Authentication be required?**
-Yes. Note that DID Authentication does not reuqire using DIDAuth protocol.
+Yes. Note that DID authentication does not reuqire using DIDAuth protocol. It's expected that DID authentication will be dictated by protocol choice.
 
 **Who decides which DID method to use - wallet or credential issuing platforms?**
 
