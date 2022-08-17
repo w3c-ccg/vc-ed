@@ -41,6 +41,7 @@ IRC Chat:
 
 | Date        | Topic |
 |-------------|-------|
+| 15 Aug 2022 | [Kayode Ezike w/ Updates MIT/DCC Credential Status Work](https://w3c-ccg.github.io/meetings/2022-08-15-vc-education/)
 | 25 Jul 2022 | [DIDs 101 at VC-EDU](https://w3c-ccg.github.io/meetings/2022-07-25-vc-education/)
 | 18 Jul 2022 | [JFF VC-EDU Plugfest #2](https://w3c-ccg.github.io/meetings/2022-07-18-vc-education/)
 | 11 Jul 2022 | No Meeting
