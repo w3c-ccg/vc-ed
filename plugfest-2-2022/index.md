@@ -15,7 +15,7 @@ The purpose of this event is to issue W3C Verifiable Credentials in the Open Bad
 
 * [Requirements](#requirements)
 * [Participation Overview](#participation-overview)
-* [Frequentky Asked Questions](#frequently-asked-questions)
+* [Frequently Asked Questions](#frequently-asked-questions)
 * [Resources](#resources)
 
 ---
