@@ -9,7 +9,7 @@ The purpose of this event is to issue W3C Verifiable Credentials in the Open Bad
 
 **Kick-Off Meeting September 14, 2022**
 * [Slides](https://docs.google.com/presentation/d/1oAV3hFt7R-HSlKSvJojigxYOwnjLkDF5XW1NJJGiDqA/edit#slide=id.g35f391192_00)
-* [Zoom Recording (passcode: 6U+e#p%M)](https://us06web.zoom.us/rec/share/PMW689VGovd3svrp7qgju1Vc0dM2y4k2ye4cdvdlAXSFE6cQ8WnWUEOEiBu35ZyO.cwymES5swaLA92Qi)
+* [Zoom Recording](https://us06web.zoom.us/rec/share/PMW689VGovd3svrp7qgju1Vc0dM2y4k2ye4cdvdlAXSFE6cQ8WnWUEOEiBu35ZyO.cwymES5swaLA92Qi) passcode: 6U+e#p%M
 
 ---
 
