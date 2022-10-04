@@ -4,7 +4,7 @@
     "type": "@type",
 
     "VerifiableEducationCredential": {
-      "@id": "https://www.w3.org/2018/credentials#VerifiableCredential",
+      "@id": "https://kayaelle.github.io/vc-ed/vc-edu-model-sandbox/context.json",
       "@context": {
         "achievement": {
           "@id": "https://schema.org/hasCredential"
