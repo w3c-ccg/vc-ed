@@ -2,15 +2,17 @@
   "@context": {
     "id": "@id",
     "type": "@type",
-
+    
     "VerifiableEducationCredential": {
-      "@id": "https://kayaelle.github.io/vc-ed/vc-edu-model-sandbox/context.json",
+      "@id": "https://www.w3.org/2018/credentials#VerifiableCredential",
       "@context": {
         "achievement": {
-          "@id": "https://schema.org/hasCredential"
-        },
-        "name": "http://schema.org/name",
-        "description": "http://schema.org/description"
+          "@id": "https://schema.org/hasCredential",
+          "@context": {
+            "name": "http://schema.org/name",
+            "description": "http://schema.org/description"
+          }
+        }
       }
     }
   }
