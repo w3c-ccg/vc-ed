@@ -16,7 +16,7 @@ The purpose of this event is to issue W3C Verifiable Credentials in the Open Bad
 * [Requirements](#requirements)
 * [Participation Overview](#participation-overview)
 * [Frequently Asked Questions](#frequently-asked-questions)
-* [Example Unsigned Badge](https://w3c-ccg.github.io/vc-ed/plugfest-2-2022/unsigned-badge-example-p2.json)
+* [Example Badges](#example-badges)
 * [Example Signed Badge](https://w3c-ccg.github.io/vc-ed/plugfest-2-2022/signed_badge_example-p2.json)
 * [Resources](#resources)
 
@@ -128,6 +128,22 @@ This will be a collaborative decision between wallets & issuers.
 **Will there be funding to support technical development or team coordination activities for this Plugfest?**
 
 $10,000 will be available to each organization (wallet/issuer/both) that demonstrates successful execution of the technical requirements.  As in PlugFest 1, participants will be required to submit a video on ahead of demo day (November 14, 2022).  Additional information will be provided in September.
+
+---
+
+## Example Badges
+
+### [Basic Unsigned Badge](https://w3c-ccg.github.io/vc-ed/plugfest-2-2022/unsigned-badge-example-p2.json)
+Contains the required properties for the plugfest
+
+### [Basic Signed Badge](https://w3c-ccg.github.io/vc-ed/plugfest-2-2022/signed_badge_example-p2.json)
+Signed version of the badge containing the required properties for the plugfest
+
+### [Basic Unsigned Badge with Additional Issuer Properties](https://w3c-ccg.github.io/vc-ed/plugfest-2-2022/unsigned-badge-example-p2-issuer-logo-url.json)
+Contains issuer logo image (url) and URL of issuer.
+
+### [Basic Unsigned Badge with Embedded Achievement Image](https://w3c-ccg.github.io/vc-ed/plugfest-2-2022/unsigned-badge-example-p2-embedded-image.json)
+In comparison to Basic Unsigned Badge, the achievement image is embedded using base64 instead of a URL.
 
 ---
 
