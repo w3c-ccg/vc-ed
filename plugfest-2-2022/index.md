@@ -139,6 +139,8 @@ $10,000 will be available to each organization (wallet/issuer/both) that demonst
 * [CHAPI - Credential Handler API](https://chapi.io)
 * [OIDC- OpenID for VCs](https://openid.net/wordpress-content/uploads/2022/05/OIDF-Whitepaper_OpenID-for-Verifiable-Credentials_FINAL_2022-05-12.pdf)
 * [Open Badges 3.0](https://imsglobal.github.io/openbadges-specification/ob_v3p0.html)
+* [Open Badges 3.0 Context](https://purl.imsglobal.org/spec/ob/v3p0/context.json)
+* [Open Badges 3.0 Schema](https://purl.imsglobal.org/spec/ob/v3p0/schema/json/ob_v3p0_achievementcredential_schema.json)
 * [Plugfest 1](https://w3c-ccg.github.io/vc-ed/plugfest-1-2022/)
 * [Plugfest 1 Participants](https://w3c-ccg.github.io/vc-ed/plugfest-1-2022/participants.html)
 * Protocols:
