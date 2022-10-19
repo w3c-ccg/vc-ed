@@ -39,11 +39,11 @@
       }
     }
   },
-  "proof": {
+  "proof": [{
     "type": "Ed25519Signature2018",
     "created": "2022-10-19T15:54:30Z",
     "verificationMethod": "did:key:z6MktiSzqF9kqwdU8VkdBKx56EYzXfpgnNPUAGznpicNiWfn#z6MktiSzqF9kqwdU8VkdBKx56EYzXfpgnNPUAGznpicNiWfn",
     "proofPurpose": "assertionMethod",
     "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..GbXf4ChBeeYrNIcMLR9mQOeODVDl1Sp3pQZu2eqOLIK7zXNZgpGbAuE_xDI2Q4Jg7S9xQlDoSelTONJyUCuCBw"
-  }
+  }]
 }
