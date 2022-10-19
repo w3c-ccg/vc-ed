@@ -3,9 +3,13 @@
 We encourage contributions meeting the [Contribution Guidelines](CONTRIBUTING.md).  While we prefer the creation of issues and Pull Requests in the GitHub repository, discussions often occur on the [public-credentials](http://lists.w3.org/Archives/Public/public-credentials/) and [public-vc-edu](https://lists.w3.org/Archives/Public/public-vc-edu/) mailing lists as well.
 
 Co-chairs:
-- Kerri Lemoie, OpenWork Group, [Twitter](https://twitter.com/kayaelle), [LinkedIn](https://www.linkedin.com/in/kerrilemoie/)
+- Kerri Lemoie, MIT/Digital Credentials Consortium, [Twitter](https://twitter.com/kayaelle), [LinkedIn](https://www.linkedin.com/in/kerrilemoie/)
 - Dmitri Zagidulin, MIT/Digital Credentials Consortium, [LinkedIn](https://www.linkedin.com/in/dzagidulin/)
 - Simone Ravaioli, Digitary/Parchment, [Twiiter](https://twitter.com/psykoreactor), [LinkedIn](https://www.linkedin.com/in/simoneravaioli/)
+
+## Charter
+
+[https://w3c-ccg.github.io/vc-ed/charter/](https://w3c-ccg.github.io/vc-ed/charter/)
 
 ## Email List
 
@@ -17,7 +21,7 @@ We meet Mondays at 8am PDT / 11am EDT / 4pm BST / 5pm CEST. [More Timezones](htt
 
 Add to calendar: 
 
-<a target="_blank" href="https://calendar.google.com/calendar/u/0/r/eventedit/copy/N2JucGsxYWlkOHZqcGswcWhmbTRjbmpiMDRfMjAyMjAyMDdUMTYwMDAwWiA2YTRicTE3bm84NHNzbmFkY2NtMGoyMTMzZ0Bn/a2xlbW9pZUBjb25jZW50cmljc2t5LmNvbQ?sf=true"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
+<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NXBoZXRnanRwcDI5ZTVydDEydmhhNnZjMmxfMjAyMjA4MjlUMTUwMDAwWiBwdWJsaWMudmMuZWR1QG0&amp;tmsrc=public.vc.edu%40gmail.com&amp;scp=ALL"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
 
 Jitsi: [https://meet.w3c-ccg.org/education](https://meet.w3c-ccg.org/education)
 
@@ -31,12 +35,15 @@ IRC Chat:
 
 ## Initiatives
 - [JFF & VC-EDU Interoperability PlugFest 1](https://w3c-ccg.github.io/vc-ed/plugfest-1-2022/)
+- [JFF & VC-EDU Interoperability PlugFest 2](https://w3c-ccg.github.io/vc-ed/plugfest-2-2022/)
 
 ## Meetings
 
 | Date        | Topic |
 |-------------|-------|
-| 18 Jul 2022 | [JFF VC-EDU Plugfest #2](https://w3c-ccg.github.io/meetings/2022-07-18-vc-education/))
+| 15 Aug 2022 | [Kayode Ezike w/ Updates MIT/DCC Credential Status Work](https://w3c-ccg.github.io/meetings/2022-08-15-vc-education/)
+| 25 Jul 2022 | [DIDs 101 at VC-EDU](https://w3c-ccg.github.io/meetings/2022-07-25-vc-education/)
+| 18 Jul 2022 | [JFF VC-EDU Plugfest #2](https://w3c-ccg.github.io/meetings/2022-07-18-vc-education/)
 | 11 Jul 2022 | No Meeting
 | 04 Jul 2022 | No Meeting
 | 13 Jun 2022 | [JFF VC-EDU Plugfest #1 Recap](https://w3c-ccg.github.io/meetings/2022-06-13-vc-education/)

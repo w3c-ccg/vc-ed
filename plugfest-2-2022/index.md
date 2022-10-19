@@ -1,20 +1,26 @@
 # JFF & VC-EDU 
-## Interoperability Plugfest #2
+## Interoperability Plugfest 2
 
 ### August-November 2022
 
-### Demo Event: November 14, 2022 (9 am Pacific Time) - Computer History Museum, Mountain View, CA, USA
+**Demo Event: November 14, 2022 (9 am Pacific Time) - Computer History Museum, Mountain View, CA, USA**
 
 The purpose of this event is to issue W3C Verifiable Credentials in the Open Badges v3 format and Decentralized Identifiers to wallets using protocols that are popular in the education and workforce ecosystem.
 
-[Requirements](#requirements)
-[Participation Overview](#participation-overview)
-[Frequentky Asked Questions](frequent;y-asked-questions)
-[Resources](#resources)
-
-## Requirements
+**Kick-Off Meeting September 14, 2022**
+* [Slides](https://docs.google.com/presentation/d/1oAV3hFt7R-HSlKSvJojigxYOwnjLkDF5XW1NJJGiDqA/edit#slide=id.g35f391192_00)
+* [Zoom Recording](https://us06web.zoom.us/rec/share/PMW689VGovd3svrp7qgju1Vc0dM2y4k2ye4cdvdlAXSFE6cQ8WnWUEOEiBu35ZyO.cwymES5swaLA92Qi) passcode: 6U+e#p%M
 
 ---
+
+* [Requirements](#requirements)
+* [Participation Overview](#participation-overview)
+* [Frequently Asked Questions](#frequently-asked-questions)
+* [Resources](#resources)
+
+---
+
+## Requirements
 
 ### Wallet Requirements
 
@@ -24,9 +30,10 @@ The purpose of this event is to issue W3C Verifiable Credentials in the Open Bad
 
 ### Issuer Requirements
 
-* Issue: Verifiable credential (OBv3) to at least two different wallets (using VC-API/CHAPI, OpenID Connect, and/or DID-Comm Presentation Exchange)
+* Issue: Verifiable credential (OBv3) to at least two different wallets (using [Verifiable Credentials HTTP API v0.3 - VC-API](https://w3c-ccg.github.io/vc-api/), [OpenID for Verifiable Credential Issuance](https://openid.net/specs/openid-4-verifiable-credential-issuance-1_0.html, [WACI-DIDComm Interop Profile](https://identity.foundation/waci-didcomm/))
 * Optional Display: badge image, issuer name, issuer logo, achievement name, achievement description, achievement criteria, & other Open Badges v3 terms
 
+---
 
 ## Participation Overview
 ### Registering for Plugfest #2
@@ -85,7 +92,7 @@ Educational institutions, training providers, and other credential providers are
 
 **What are the technical requirements for credential issuing platforms?**
 
-* Issue: Verifiable credential (OBv3) to at least two different wallets (using VC-API/CHAPI, OpenID Connect, and/or DID-Comm Presentation Exchange)
+* Issue: Verifiable credential (OBv3) to at least two different wallets (using [Verifiable Credentials HTTP API v0.3 - VC-API](https://w3c-ccg.github.io/vc-api/), [OpenID for Verifiable Credential Issuance](https://openid.net/specs/openid-4-verifiable-credential-issuance-1_0.html, [WACI-DIDComm Interop Profile](https://identity.foundation/waci-didcomm/))
 * Optional Display: badge image, issuer name, issuer logo, achievement name, achievement description, achievement criteria, & other Open Badges v3 terms
 
 **Can we participate if we have not yet decided which protocol to implement?**
@@ -100,15 +107,19 @@ In order to participate, you must select at least one of the three protocols.
 
 For the purpose of this plugfest, we will be focusing on a single achievement verifiable credential that all wallets are able accept (OBv3).  Participants in PlugFest 2 are welcome to make suggestions on other verifiable credential formats in coordination.  If there is demand for these formats by wallet implementers within the PlugFest 2 cohort, the plugfest team is open to considering these other credentials.
 
+**Are we required to use an Open Badge provided by the plugfest organizers like we did in Plugfest 1 ?**
+
+No, we will provide an example that you may use but you may also use your own baadges as long as they are compliant with [Open Badges 3.0](https://imsglobal.github.io/openbadges-specification/ob_v3p0.html)
+
 **Will credential issuers be required to use DIDs?**
 Yes.
 
 **Will DID Authentication be required?**
-Yes.
+Yes. Note that DID authentication does not reuqire using DIDAuth protocol. It's expected that DID authentication will be dictated by protocol choice.
 
 **Who decides which DID method to use - wallet or credential issuing platforms?**
 
-It's a collaborative decision
+This will be a collaborative decision between wallets & issuers.
 
 ### Questions About Funding
 
@@ -116,16 +127,25 @@ It's a collaborative decision
 
 $10,000 will be available to each organization (wallet/issuer/both) that demonstrates successful execution of the technical requirements.  As in PlugFest 1, participants will be required to submit a video on ahead of demo day (November 14, 2022).  Additional information will be provided in September.
 
+---
 
 ## Resources
 
-* [Kick-off Meeting Deck](https://docs.google.com/presentation/d/1YoS3est-YnWO1tI7JjJDjSPSnIXJNon_TFosKyneaJg/edit?usp=sharing)
-* [VC Implementation Guide](https://www.w3.org/TR/vc-imp-guide/)
-* [Open Badges 3.0](https://imsglobal.github.io/openbadges-specification/ob_v3p0.html)
-* [Universal Wallet](https://w3c-ccg.github.io/universal-wallet-interop-spec/)
 * [DID Actor](https://api.did.actor/)
-* [Hosted platform to resolve and manage DIDs](https://godiddy.com/)
+* [DIDComm](https://didcomm.org/)
 * [DID DIF Universal Resolver](https://dev.uniresolver.io/)
-
-
-
+* [Hosted platform to resolve and manage DIDs](https://godiddy.com/)
+* [VC-API](https://github.com/w3c-ccg/vc-api/)
+* [CHAPI - Credential Handler API](https://chapi.io)
+* [OIDC- OpenID for VCs](https://openid.net/wordpress-content/uploads/2022/05/OIDF-Whitepaper_OpenID-for-Verifiable-Credentials_FINAL_2022-05-12.pdf)
+* [Open Badges 3.0](https://imsglobal.github.io/openbadges-specification/ob_v3p0.html)
+* [Plugfest 1](https://w3c-ccg.github.io/vc-ed/plugfest-1-2022/)
+* [Plugfest 1 Participants](https://w3c-ccg.github.io/vc-ed/plugfest-1-2022/participants.html)
+* Protocols:
+  * [Verifiable Credentials HTTP API v0.3 - VC-API](https://w3c-ccg.github.io/vc-api/)
+  * CHAPI Quick Reference: [for Issuers](https://chapi.io/developers/issuers), [for Digital Wallets](https://chapi.io/developers/wallets), [for Verifiers](https://chapi.io/developers/verifiers)
+  * [OpenID for Verifiable Credential Issuance](https://openid.net/specs/openid-4-verifiable-credential-issuance-1_0.html)
+  * [WACI-DIDComm Interop Profile](https://identity.foundation/waci-didcomm/)
+* [Universal Wallet](https://w3c-ccg.github.io/universal-wallet-interop-spec/)
+* [VC Implementation Guide](https://www.w3.org/TR/vc-imp-guide/)
+* [VC Issuing Protocols Overview - slides](https://docs.google.com/presentation/d/12K8EIzFjzsC2i1WwfzggsXISGXZ64f1xwHJ5qO5rylc/edit#slide=id.p)
