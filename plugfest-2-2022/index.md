@@ -16,6 +16,8 @@ The purpose of this event is to issue W3C Verifiable Credentials in the Open Bad
 * [Requirements](#requirements)
 * [Participation Overview](#participation-overview)
 * [Frequently Asked Questions](#frequently-asked-questions)
+* [Example Unsigned Badge](https://w3c-ccg.github.io/vc-ed/plugfest-2-2022/unsigned-badge-example-p2.json)
+* [Example Signed Badge](https://w3c-ccg.github.io/vc-ed/plugfest-2-2022/signed_badge_example-p2.json)
 * [Resources](#resources)
 
 ---
