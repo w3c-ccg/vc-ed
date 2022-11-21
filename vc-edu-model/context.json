@@ -6,7 +6,7 @@
     "xsd": "https://www.w3.org/2001/XMLSchema#",
 
     "VerifiableEducationCredential": {
-      "@id": "https://kayaelle.github.io/vc-ed/vc-edu-model-sandbox/context.json",
+      "@id": "https://kayaelle.github.io/vc-ed/vc-edu-model/context.json",
       "@context": {
         "achievement": {
           "@id": "https://schema.org/hasCredential"
