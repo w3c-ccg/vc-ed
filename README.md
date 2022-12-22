@@ -41,13 +41,28 @@ IRC Chat:
 
 | Date        | Topic |
 |-------------|-------|
+| 19 Dec 2022 | No Meeting
+| 08 Dec 2022 | No Meeting
+| 28 Nov 2022 | No Meeting
+| 21 Nov 2022 | [JFFLabs & VC-EDU Plugfest #2 & Internet Identity Workshop (IIW) Recap](https://w3c-ccg.github.io/meetings/2022-11-21-vc-education/)
+| 14 Nov 2022 | No Meeting
+| 31 Oct 2022 | No Meeting
+| 17 Oct 2022 | [Open Badges 3.0 Candidate Release Review](https://w3c-ccg.github.io/meetings/2022-10-17-vc-education/)
+| 03 Oct 2022 | [Velocity Network](https://w3c-ccg.github.io/meetings/2022-10-03-vc-education/)
+| 26 Sep 2022 | [EBSI Issuer Trust Model](https://w3c-ccg.github.io/meetings/2022-09-26-vc-education/)
+| 05 Sep 2022 | No Meeting
+| 08 Aug 2022 | [Plugfest AMA & Protocols Review](https://w3c-ccg.github.io/meetings/2022-08-08-vc-education/)
+| 29 Aug 2022 | [Gitcoin Passport with Leon Erichsen](https://w3c-ccg.github.io/meetings/2022-08-29-vc-education/)
+| 22 Aug 2022 | [DID:EBSI v2](https://w3c-ccg.github.io/meetings/2022-08-22-vc-education/)
 | 15 Aug 2022 | [Kayode Ezike w/ Updates MIT/DCC Credential Status Work](https://w3c-ccg.github.io/meetings/2022-08-15-vc-education/)
 | 25 Jul 2022 | [DIDs 101 at VC-EDU](https://w3c-ccg.github.io/meetings/2022-07-25-vc-education/)
 | 18 Jul 2022 | [JFF VC-EDU Plugfest #2](https://w3c-ccg.github.io/meetings/2022-07-18-vc-education/)
 | 11 Jul 2022 | No Meeting
 | 04 Jul 2022 | No Meeting
+| 27 Jun 2022 | [SBTs and VCs](https://w3c-ccg.github.io/meetings/2022-06-27-vc-education/)
 | 13 Jun 2022 | [JFF VC-EDU Plugfest #1 Recap](https://w3c-ccg.github.io/meetings/2022-06-13-vc-education/)
 | 30 May 2022 | No Meeting
+| 23 May 2022 | [Community Showcase: Diwal](https://w3c-ccg.github.io/meetings/2022-05-23-vc-education/)
 | 09 May 2022 | [VC-EDU Interoperability Plug Fest with Sharon Leu (JFF)](https://w3c-ccg.github.io/meetings/2022-05-09-vc-education/)
 | 02 May 2022 | [Internet Identity Workshop Overview](https://w3c-ccg.github.io/meetings/2022-05-02-vc-education/)
 | 18 Apr 2022 | [PDFS as VCs with James Chartrand from McMaster University](https://w3c-ccg.github.io/meetings/2022-04-18-vc-education/)
