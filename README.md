@@ -41,6 +41,8 @@ IRC Chat:
 
 | Date        | Topic |
 |-------------|-------|
+| 02 Jan 2022 | No Meeting
+| 26 Dec 2022 | No Meeting
 | 19 Dec 2022 | No Meeting
 | 08 Dec 2022 | No Meeting
 | 28 Nov 2022 | No Meeting
