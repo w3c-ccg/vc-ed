@@ -1,0 +1,71 @@
+---
+
+# Plugfest 1 Participants
+
+---
+<!DOCTYPE html>
+<html lang="en" class=" supports-js supports-fontface supports-generatedcontent CFPB_Icons">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JFF VC-EDU Plugfest #2 | Participants List</title>
+     <meta name="description" content="List of Participants in the JFF W3C VC-EDU Verififable Credentials Plugfest November 022">
+    <meta name="keywords" content="verifiable credentials, decentralized identity, DID, learner records, interoperability" />
+    
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS"
+        crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css">
+    <link rel="stylesheet" href="/vc-ed/assets/css/style.css?v=ecc7e229f4f7dc138d4efe6b5c4e392d1d71b47d">
+  </head>
+  <body>
+    <div class="container-fluid">
+       <main class="row">
+          <div class="col">
+            <h1><a href="https://w3c-ccg.github.io/vc-ed/">vc-ed</a></h1>
+         </div>
+      </main>
+        <main class="row">
+            <div class="col">
+                <h2>JFF VC-EDU Plugfest #2 - November 2022</h2>
+                <h3>Participants List</h3>
+              <div id="table-container"></div>
+           </div>
+        </main>
+    </div>
+    
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.2.1/js/bootstrap.bundle.min.js"></script>
+    <script src="js/jquery.csv.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap4.min.js"></script>
+    <script src="js/csv_to_html_table.js"></script>
+    
+    <script type="text/javascript">
+        function format_link(link) {
+            if (link)
+                return "<a href='" + link + "' target='_blank'>" + link + "</a>";
+            else return "";
+        }
+
+        CsvToHtmlTable.init({
+            csv_path: "participants-list.csv",
+            element: "table-container",
+            allow_download: true,
+            csv_options: {
+                separator: ",",
+                delimiter: '"'
+            },
+            datatables_options: {
+                paging: false
+            },
+            custom_formatting: [
+                [1, format_link],
+                [2, format_link]
+            ]
+        });
+
+    </script>
+
+
+  </body>
+</html>
