@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "id": "@id",
+    "type": "@type",
+
+    "xsd": "https://www.w3.org/2001/XMLSchema#",
+
+    "VerifiableEducationCredential": {
+      "@id": "https://w3c-ccg.github.io/vc-ed-models/#VerifiableEducationCredential"
+    },
+    "achievement": {
+      "@id": "https://schema.org/hasCredential"
+    },
+    "description": {
+      "@id": "https://schema.org/description",
+      "@type": "xsd:string"
+    },
+    "name": {
+      "@id": "https://schema.org/name",
+      "@type": "xsd:string"
+    }
+  }
+}
+
+
+
+
