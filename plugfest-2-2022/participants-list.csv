@@ -1,4 +1,4 @@
-Organization Name,,Submission ,Wallets,Credential Issuers,Link 
+Organization Name,Website,Submission ,Wallets,Credential Issuers,Demo Video 
 Acreditta,https://acreditta.com/,Credential Issuer ,"LearnCard, Veres",,https://www.youtube.com/watch?v=PkCH-qYkleg
 ASU Pocket,https://pocket.asu.edu/,Credential Issuer ,LearnCard,,https://www.loom.com/share/e317fecd525b4866a9750243d309be36
 ASU Pocket,https://pocket.asu.edu/,Credential Issuer ,SmartResume ,,https://www.youtube.com/watch?v=Gbeg-iV7a6U
@@ -30,7 +30,7 @@ Instructure,https://www.instructure.com/,Credential Issuer ,,Veres,https://www.y
 iQ4,https://www.iq4.com/,Wallet Provider,,"Spruce, Crossword Cybersecurity, Velocity, Greenlight Credentials",https://www.youtube.com/watch?v=QtZSRmRuMgk
 Learning Economy Foundation (LearnCard),https://www.learningeconomy.io/,Credential Issuer ,,,"See wallet videos for Gobekli, iDatafy (SmartResume), RANDA"
 Learning Economy Foundation (LearnCard),https://www.learningeconomy.io/,Wallet Provider,,"Veres Issuer, Participate",https://www.loom.com/share/34007666a99c44fb96c6d7158ead93f7
-MATTR,https://mattr.global/,Credential issuer ,,,"See wallet videos for Entrustient, Diwala"
+MATTR,https://mattr.global/,Credential Issuer ,,,"See wallet videos for Entrustient, Diwala"
 MATTR,https://mattr.global/,Wallet Provider ,,"MATTR, Diwala, Entrustient ",https://www.youtube.com/watch?v=zzC9VgKUQao&feature=youtu.be
 MIT/DCC,https://digitalcredentials.mit.edu/,Credential Issuer ,,,"See wallet videos for iDatafy(Smart Resume), RANDA, Territorium"
 MIT/DCC,https://digitalcredentials.mit.edu/,Wallet Provider,,"Participate, Learning Economy Foundation",https://www.youtube.com/watch?v=DJ0aVLXUYNU
@@ -45,7 +45,7 @@ Territorium ,https://territorium.com/,Credential Issuer,"Veres, RANDA and DCC ",
 Territorium ,https://territorium.com/,Credential Issuer,LearnCard,,https://youtu.be/E1IkFLZdj8w
 The Trusted Learner Network ,https://tln.asu.edu/,Credential Issuer,"LearnCard, Veres",,https://www.youtube.com/watch?v=7CH0ULOz2vM
 Validated ID,https://www.validatedid.com/,Wallet Provider,,"Spruce ID, Danube Tech, walt.id, and Velocity",https://youtu.be/XjCi3p7DM20
-Validated ID,https://www.validatedid.com/,,,,https://www.youtube.com/watch?v=q6Bd0wKwrAI
+Validated ID,https://www.validatedid.com/,Wallet Provider,,,https://www.youtube.com/watch?v=q6Bd0wKwrAI
 Velocity Career Labs,https://www.velocitycareerlabs.com/,Credential Issuer,"iQ4, Sphereon ",,https://www.youtube.com/watch?v=_VfYjHS99fk
 walt.id,http://walt.id/,Credential Issuer,Crossword Security,,https://www.youtube.com/watch?v=hSMUwHQJlro
 walt.id,http://walt.id/,Credential Issuer,ValidateID ,,https://www.youtube.com/watch?v=XjCi3p7DM20
