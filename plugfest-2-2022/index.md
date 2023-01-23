@@ -3,6 +3,8 @@
 
 ### August-November 2022
 
+[Participants List with Videos](https://w3c-ccg.github.io/vc-ed/plugfest-2-2022/participants.html)
+
 **Demo Event: November 14, 2022 (9 am Pacific Time) - Computer History Museum, Mountain View, CA, USA**
 
 The purpose of this event is to issue W3C Verifiable Credentials in the Open Badges v3 format and Decentralized Identifiers to wallets using protocols that are popular in the education and workforce ecosystem.
