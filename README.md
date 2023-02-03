@@ -19,9 +19,7 @@ Co-chairs:
 
 We meet Mondays at 8am PDT / 11am EDT / 4pm BST / 5pm CEST. [More Timezones](https://www.timeanddate.com/worldclock/converter.html?iso=20210412T150000&p1=tz_pt&p2=tz_et&p3=tz_bst&p4=tz_cest)
 
-Add to calendar: 
-
-<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NXBoZXRnanRwcDI5ZTVydDEydmhhNnZjMmxfMjAyMjA4MjlUMTUwMDAwWiBwdWJsaWMudmMuZWR1QG0&amp;tmsrc=public.vc.edu%40gmail.com&amp;scp=ALL"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
+<a target="_blank" href="https://calendar.google.com/calendar/u/0/embed?src=public.vc.edu@gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
 
 Jitsi: [https://meet.w3c-ccg.org/education](https://meet.w3c-ccg.org/education)
 
@@ -41,6 +39,10 @@ IRC Chat:
 
 | Date        | Topic |
 |-------------|-------|
+| 30 Jan 2022 | [Intro to CHAPI (CRedential Handler API) w/Manu Sporny from Digital Bazaar](https://w3c-ccg.github.io/meetings/2023-01-30-vc-education/)
+| 23 Jan 2022 | JWT VC interoperability profile with Jen Schreiber from Workday Credentials
+| 16 Jan 2022 | No Meeting
+| 09 Jan 2022 | [2022 Recap](https://w3c-ccg.github.io/meetings/2023-01-09-vc-education/)
 | 02 Jan 2022 | No Meeting
 | 26 Dec 2022 | No Meeting
 | 19 Dec 2022 | No Meeting
