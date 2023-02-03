@@ -39,7 +39,7 @@ IRC Chat:
 
 | Date        | Topic |
 |-------------|-------|
-| 30 Jan 2022 | [Intro to CHAPI (CRedential Handler API) w/Manu Sporny from Digital Bazaar](https://w3c-ccg.github.io/meetings/2023-01-30-vc-education/)
+| 30 Jan 2022 | [Intro to CHAPI (Credential Handler API) w/Manu Sporny from Digital Bazaar](https://w3c-ccg.github.io/meetings/2023-01-30-vc-education/)
 | 23 Jan 2022 | JWT VC interoperability profile with Jen Schreiber from Workday Credentials
 | 16 Jan 2022 | No Meeting
 | 09 Jan 2022 | [2022 Recap](https://w3c-ccg.github.io/meetings/2023-01-09-vc-education/)
