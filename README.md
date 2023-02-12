@@ -39,6 +39,8 @@ IRC Chat:
 
 | Date        | Topic |
 |-------------|-------|
+| 20 Feb 2023 | No Meeting
+| 13 Feb 2023 | No Meeting
 | 06 Feb 2023 | [Open Agenda: Open Badges publisher, VC playground & Experience You, ECDSA Cryptosuite,Plugfest 3, EU Learning Model](https://w3c-ccg.github.io/meetings/2023-02-06-vc-education/)
 | 30 Jan 2023 | [Intro to CHAPI (Credential Handler API) w/Manu Sporny from Digital Bazaar](https://w3c-ccg.github.io/meetings/2023-01-30-vc-education/)
 | 23 Jan 2023 | JWT VC interoperability profile with Jen Schreiber from Workday Credentials
