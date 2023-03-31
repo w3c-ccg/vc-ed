@@ -39,6 +39,11 @@ IRC Chat:
 
 | Date        | Topic |
 |-------------|-------|
+| 27 Mar 2023 | [VC Specification Directory https://w3c.github.io/vc-specs-dir/](https://w3c-ccg.github.io/meetings/2023-03-27-vc-education/)
+| 20 Mar 2023 | LearnCard Alpha Leak with Learning Economy Foundation
+| 13 Mar 2023 | Open Agenda
+| 06 Mar 2023 | [1EdTech Digital Summit & RANDA w/Marty Reed](https://w3c-ccg.github.io/meetings/2023-03-06-vc-education/)
+| 27 Feb 2023 | No Meeting
 | 20 Feb 2023 | No Meeting
 | 13 Feb 2023 | No Meeting
 | 06 Feb 2023 | [Open Agenda: Open Badges publisher, VC playground & Experience You, ECDSA Cryptosuite,Plugfest 3, EU Learning Model](https://w3c-ccg.github.io/meetings/2023-02-06-vc-education/)
