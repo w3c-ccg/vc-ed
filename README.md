@@ -39,6 +39,7 @@ IRC Chat:
 
 | Date        | Topic |
 |-------------|-------|
+| 03 Apr 2023 | [Open Agenda](https://w3c-ccg.github.io/meetings/2023-04-03-vc-education/)
 | 27 Mar 2023 | [VC Specification Directory https://w3c.github.io/vc-specs-dir/](https://w3c-ccg.github.io/meetings/2023-03-27-vc-education/)
 | 20 Mar 2023 | LearnCard Alpha Leak with Learning Economy Foundation
 | 13 Mar 2023 | Open Agenda
@@ -48,7 +49,7 @@ IRC Chat:
 | 13 Feb 2023 | No Meeting
 | 06 Feb 2023 | [Open Agenda: Open Badges publisher, VC playground & Experience You, ECDSA Cryptosuite,Plugfest 3, EU Learning Model](https://w3c-ccg.github.io/meetings/2023-02-06-vc-education/)
 | 30 Jan 2023 | [Intro to CHAPI (Credential Handler API) w/Manu Sporny from Digital Bazaar](https://w3c-ccg.github.io/meetings/2023-01-30-vc-education/)
-| 23 Jan 2023 | JWT VC interoperability profile with Jen Schreiber from Workday Credentials
+| 23 Jan 2023 | [JWT VC interoperability profile with Jen Schreiber from Workday Credentials](https://w3c-ccg.github.io/meetings/2023-01-23-vc-education/)
 | 16 Jan 2023 | No Meeting
 | 09 Jan 2023 | [2022 Recap](https://w3c-ccg.github.io/meetings/2023-01-09-vc-education/)
 | 02 Jan 2023 | No Meeting
