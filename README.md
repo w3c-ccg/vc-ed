@@ -39,6 +39,9 @@ IRC Chat:
 
 | Date        | Topic |
 |-------------|-------|
+| 24 Apr 2023 | [Brooke Lipitz from ASU Trusted Learner Network (TLN)](https://w3c-ccg.github.io/meetings/2023-04-24-vc-education/)
+| 17 Apr 2023 | Cross-border use case for Micro-credentials using European Blockchain Service Infrastructure
+| 10 Apr 2023 | No Meeting
 | 03 Apr 2023 | [Open Agenda](https://w3c-ccg.github.io/meetings/2023-04-03-vc-education/)
 | 27 Mar 2023 | [VC Specification Directory https://w3c.github.io/vc-specs-dir/](https://w3c-ccg.github.io/meetings/2023-03-27-vc-education/)
 | 20 Mar 2023 | LearnCard Alpha Leak with Learning Economy Foundation
