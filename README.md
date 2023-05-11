@@ -39,6 +39,7 @@ IRC Chat:
 
 | Date        | Topic |
 |-------------|-------|
+| 08 May 2023 | [The Next Step in Digital Credentials — Hash-based Elision](https://w3c-ccg.github.io/meetings/2023-05-08-vc-education/)
 | 24 Apr 2023 | [Brooke Lipitz from ASU Trusted Learner Network (TLN)](https://w3c-ccg.github.io/meetings/2023-04-24-vc-education/)
 | 17 Apr 2023 | Cross-border use case for Micro-credentials using European Blockchain Service Infrastructure
 | 10 Apr 2023 | No Meeting
