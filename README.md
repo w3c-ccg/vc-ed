@@ -39,6 +39,9 @@ IRC Chat:
 
 | Date        | Topic |
 |-------------|-------|
+| 10 Jul 2023 | [Open Recognition with Julie Keane from Participate.com & Don Presant from factory.cancred.ca](https://w3c-ccg.github.io/meetings/2023-07-10-vc-education/)
+| 12 Jun 2023 | [Mattr & MyCred](https://w3c-ccg.github.io/meetings/2023-06-12-vc-education/)
+| 06 Jun 2023 | [CLR & Plugfest 3](https://w3c-ccg.github.io/meetings/2023-06-05-vc-education/)
 | 15 May 2023 | [JFF Plugfest 3](https://w3c-ccg.github.io/meetings/2023-05-15-vc-education/)
 | 08 May 2023 | [The Next Step in Digital Credentials — Hash-based Elision](https://w3c-ccg.github.io/meetings/2023-05-08-vc-education/)
 | 24 Apr 2023 | [Brooke Lipitz from ASU Trusted Learner Network (TLN)](https://w3c-ccg.github.io/meetings/2023-04-24-vc-education/)
