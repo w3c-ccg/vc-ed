@@ -34,6 +34,7 @@ IRC Chat:
 ## Initiatives
 - [JFF & VC-EDU Interoperability PlugFest 1](https://w3c-ccg.github.io/vc-ed/plugfest-1-2022/)
 - [JFF & VC-EDU Interoperability PlugFest 2](https://w3c-ccg.github.io/vc-ed/plugfest-2-2022/)
+- [JFF & VC-EDU Interoperability PlugFest 3](https://w3c-ccg.github.io/vc-ed/plugfest-3-2023/)
 
 ## Meetings
 
