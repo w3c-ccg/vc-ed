@@ -50,7 +50,7 @@ If you need assistance with registration, please contact Joan Lee, <jlee@jfflabs
 ## Example Badges
 
 [Basic Unsigned Badge](unsigned-badge-example-p3.json)  
-Basic Signed Badge  
+[Basic Signed Badge](signed_badge_example-p3.json)  
 [Basic Unsigned Badge with Additional Issuer Properties](unsigned-badge-example-p3-issuer-logo-url.json)  
 Basic Unsigned Badge with Embedded Achievement Image  
 

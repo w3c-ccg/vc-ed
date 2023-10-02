@@ -1,0 +1,43 @@
+{
+  "@context": [
+    "https://www.w3.org/2018/credentials/v1",
+    "https://purl.imsglobal.org/spec/ob/v3p0/context-3.0.2.json"
+  ],
+  "id": "urn:uuid:7b2605ae-e89d-4689-9d9b-fe5395e286df",
+  "type": [
+    "VerifiableCredential",
+    "OpenBadgeCredential"
+  ],
+  "name": "JFF x vc-edu PlugFest 3 Interoperability",
+  "issuer": {
+    "type": ["Profile"],
+    "id": "did:key:z6MknTHVAhsRyNzBG6h5wjTrg76UGUaBoXS5Vs9Apfr1fbCj",
+    "name": "Jobs for the Future (JFF) Labs"
+  },
+  "issuanceDate": "2023-10-09T00:00:00Z",
+  "credentialSubject": {
+    "type": ["AchievementSubject"],
+    "id": "did:key:z6MkjnTsAhSmGMxbGrHqGqoubDpdWyPbPTNWpcYBNfWXMXgD",
+    "achievement": {
+      "id": "urn:uuid:ac254bd5-8fad-4bb1-9d29-efd938536926",
+      "type": ["Achievement"],
+      "name": "JFF x vc-edu PlugFest 3 Interoperability",
+      "description": "This wallet supports the use of W3C Verifiable Credentials and has demonstrated interoperability during the presentation request workflow during JFF x VC-EDU PlugFest 3.",
+      "criteria": {
+        "type": "Criteria",
+        "narrative": "Wallet solution providers earned this badge by demonstrating interoperability during the presentation request workflow. This included successfully receiving a presentation request, allowing the holder to select at least two types of verifiable credentials to create a verifiable presentation, returning the presentation to the requester, and passing verification of the presentation and the included credentials."
+      },
+      "image": {
+        "id":"https://w3c-ccg.github.io/vc-ed/plugfest-3-2023/images/JFF-VC-EDU-PLUGFEST3-badge-image.png",
+        "type": "Image"
+      }
+    }
+  },
+  "proof": {
+    "type": "Ed25519Signature2018",
+    "jws": "eyJhbGciOiJFZERTQSIsImNyaXQiOlsiYjY0Il0sImI2NCI6ZmFsc2V9..3pVRLEHRJeZ8oRC3VZWhC0axZRyqLwq43viH2rRMzCoDKjH0RmuCPT5bgbbMbONpaJddDl5RbX88aBrkMEKOBw",
+    "proofPurpose": "assertionMethod",
+    "verificationMethod": "did:key:z6MknTHVAhsRyNzBG6h5wjTrg76UGUaBoXS5Vs9Apfr1fbCj#z6MknTHVAhsRyNzBG6h5wjTrg76UGUaBoXS5Vs9Apfr1fbCj",
+    "created": "2023-10-02T13:13:57.148Z"
+  }
+}
