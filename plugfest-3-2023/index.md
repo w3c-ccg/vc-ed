@@ -16,6 +16,8 @@ The purpose of this event is to demonstrate interoperability during the presenta
 
 ## Participation Overview
 
+[Participation Guide](https://docs.google.com/document/d/1aZPH_G1lByyentFa6gzZL4mOAptahipExGUxq0_q0Vg/edit)
+
 ### Registration to Participate
 
 Complete registration form by Monday, June 5, 2023, <https://forms.gle/w6eRgxk4JB5fNaET9>.
@@ -32,6 +34,7 @@ If you need assistance with registration, please contact Joan Lee, <jlee@jfflabs
 |  July 28, 2023 |Deadline: Update technical information in the contact sheet
 |  July 28, 2023 |PlugFest 3 Credentials available for wallets
 |August 11, 2023 |DEADLINE: Receive credentials in the wallet
+|October 9, 2023 |Demo Day
 
 ### Resources (ongoing updates)
 
