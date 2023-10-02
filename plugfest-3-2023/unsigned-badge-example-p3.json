@@ -1,7 +1,7 @@
 {
   "@context": [
     "https://www.w3.org/2018/credentials/v1",
-    "https://purl.imsglobal.org/spec/ob/v3p0/context.json"
+    "https://purl.imsglobal.org/spec/ob/v3p0/context-3.0.2.json"
   ],
   "id": "urn:uuid:b275a403-6fea-48ed-9e28-0cecefc692cc",
   "type": [
