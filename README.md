@@ -40,6 +40,8 @@ IRC Chat:
 
 | Date        | Topic |
 |-------------|-------|
+| 09 Oct 2023 | No Meeting - Plugfest 3
+| 02 Oct 2023 | [Open Wallet Foundation](https://w3c-ccg.github.io/meetings/2023-10-02-vc-education/)
 | 10 Jul 2023 | [Open Recognition with Julie Keane from Participate.com & Don Presant from factory.cancred.ca](https://w3c-ccg.github.io/meetings/2023-07-10-vc-education/)
 | 12 Jun 2023 | [Mattr & MyCred](https://w3c-ccg.github.io/meetings/2023-06-12-vc-education/)
 | 06 Jun 2023 | [CLR & Plugfest 3](https://w3c-ccg.github.io/meetings/2023-06-05-vc-education/)
