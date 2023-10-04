@@ -34,7 +34,7 @@ If you need assistance with registration, please contact Joan Lee, <jlee@jfflabs
 |  July 28, 2023 |Deadline: Update technical information in the contact sheet
 |  July 28, 2023 |PlugFest 3 Credentials available for wallets
 |August 11, 2023 |DEADLINE: Receive credentials in the wallet
-|October 9, 2023 |Demo Day
+|October 9, 2023 |[Demo Day](demos)
 
 ### Resources (ongoing updates)
 
