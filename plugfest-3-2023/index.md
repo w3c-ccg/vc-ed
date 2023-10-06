@@ -3,6 +3,8 @@
 
 ### June - October 2023
 
+[Participants List with Videos](participants.html)
+
 The purpose of this event is to demonstrate interoperability during the presentation exchange workflow using W3C Verifiable Credentials and Decentralized Identifiers.
 
 ## Requirements for PlugFest 3
