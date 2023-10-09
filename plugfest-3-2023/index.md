@@ -36,7 +36,7 @@ If you need assistance with registration, please contact Joan Lee, <jlee@jfflabs
 |  July 28, 2023 |Deadline: Update technical information in the contact sheet
 |  July 28, 2023 |PlugFest 3 Credentials available for wallets
 |August 11, 2023 |DEADLINE: Receive credentials in the wallet
-|October 9, 2023 |Demo Day
+|October 9, 2023 |[Demo Day](demos)
 
 ### Resources (ongoing updates)
 
@@ -66,7 +66,7 @@ Basic Unsigned Badge with Embedded Achievement Image
 * [CHAPI - Credential Handler API](https://chapi.io)
 * [OIDC- OpenID for VCs](https://openid.net/wordpress-content/uploads/2022/05/OIDF-Whitepaper_OpenID-for-Verifiable-Credentials_FINAL_2022-05-12.pdf)
 * [Open Badges 3.0](https://imsglobal.github.io/openbadges-specification/ob_v3p0.html)
-* [Open Badges 3.0 Context](https://purl.imsglobal.org/spec/ob/v3p0/context.json)
+* [Open Badges 3.0 Context](https://purl.imsglobal.org/spec/ob/v3p0/context-3.0.2.json)
 * [Open Badges 3.0 Schema](https://purl.imsglobal.org/spec/ob/v3p0/schema/json/ob_v3p0_achievementcredential_schema.json)
 * [Plugfest 1](https://w3c-ccg.github.io/vc-ed/plugfest-1-2022/)
 * [Plugfest 2](https://w3c-ccg.github.io/vc-ed/plugfest-2-2022/)
