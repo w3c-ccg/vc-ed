@@ -3,7 +3,7 @@
 We encourage contributions meeting the [Contribution Guidelines](CONTRIBUTING.md).  While we prefer the creation of issues and Pull Requests in the GitHub repository, discussions often occur on the [public-credentials](http://lists.w3.org/Archives/Public/public-credentials/) and [public-vc-edu](https://lists.w3.org/Archives/Public/public-vc-edu/) mailing lists as well.
 
 Co-chairs:
-- Kerri Lemoie, MIT/Digital Credentials Consortium, [Twitter](https://twitter.com/kayaelle), [LinkedIn](https://www.linkedin.com/in/kerrilemoie/)
+- Kerri Lemoie, MIT/Digital Credentials Consortium, [LinkedIn](https://www.linkedin.com/in/kerrilemoie/) (former chair)
 - Dmitri Zagidulin, MIT/Digital Credentials Consortium, [LinkedIn](https://www.linkedin.com/in/dzagidulin/)
 - Simone Ravaioli, Digitary/Parchment, [Twiiter](https://twitter.com/psykoreactor), [LinkedIn](https://www.linkedin.com/in/simoneravaioli/)
 
@@ -40,6 +40,7 @@ IRC Chat:
 
 | Date        | Topic |
 |-------------|-------|
+| 16 Oct 2023 | [Plugfest 3 Recap & Review](https://w3c-ccg.github.io/meetings/2023-10-16-vc-education/)
 | 09 Oct 2023 | No Meeting - Plugfest 3
 | 02 Oct 2023 | [Open Wallet Foundation](https://w3c-ccg.github.io/meetings/2023-10-02-vc-education/)
 | 10 Jul 2023 | [Open Recognition with Julie Keane from Participate.com & Don Presant from factory.cancred.ca](https://w3c-ccg.github.io/meetings/2023-07-10-vc-education/)
