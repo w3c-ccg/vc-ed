@@ -14,7 +14,10 @@
     "id": "did:key:z6MktiSzqF9kqwdU8VkdBKx56EYzXfpgnNPUAGznpicNiWfn",
     "name": "Jobs for the Future (JFF)",
     "url": "https://www.jff.org/",
-    "image": "https://w3c-ccg.github.io/vc-ed/plugfest-1-2022/images/JFF_LogoLockup.png"
+    "image": {
+       "id": "https://w3c-ccg.github.io/vc-ed/plugfest-1-2022/images/JFF_LogoLockup.png",
+       "type": ["Image"]
+    }
   },
   "issuanceDate": "2023-07-20T07:05:44Z",
   "credentialSubject": {
