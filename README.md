@@ -3,9 +3,9 @@
 We encourage contributions meeting the [Contribution Guidelines](CONTRIBUTING.md).  While we prefer the creation of issues and Pull Requests in the GitHub repository, discussions often occur on the [public-credentials](http://lists.w3.org/Archives/Public/public-credentials/) and [public-vc-edu](https://lists.w3.org/Archives/Public/public-vc-edu/) mailing lists as well.
 
 Co-chairs:
-- Kerri Lemoie, MIT/Digital Credentials Consortium, [LinkedIn](https://www.linkedin.com/in/kerrilemoie/) (former chair)
 - Dmitri Zagidulin, MIT/Digital Credentials Consortium, [LinkedIn](https://www.linkedin.com/in/dzagidulin/)
 - Simone Ravaioli, Digitary/Parchment, [Twiiter](https://twitter.com/psykoreactor), [LinkedIn](https://www.linkedin.com/in/simoneravaioli/)
+- Ildiko Mazar, NTT DATA/European Learning Model, [LinkedIn](https://www.linkedin.com/in/ildikomazar/)
 
 ## Charter
 
@@ -40,6 +40,20 @@ IRC Chat:
 
 | Date        | Topic |
 |-------------|-------|
+| 06 May 2024 | [Projects supporting LERs for learners and employers](https://w3c-ccg.github.io/meetings/2024-05-06-vc-education/)
+| 29 Apr 2024 | No Meeting
+| 22 Apr 2024 | [Reflections from the 2024 Trusted Learner Network Unconference and the Internet identity workshop](https://w3c-ccg.github.io/meetings/2024-04-22-vc-education/)
+| 15 Apr 2024 | No Meeting
+| 08 Apr 2024 | [European Digital Credentials Infrastructure update](https://w3c-ccg.github.io/meetings/2024-04-08-vc-education/)
+| 01 Apr 2024 | No Meeting
+| 25 Mar 2024 | W3C VC EDU and Employment Credentials
+| 18 Mar 2024 | No Meeting
+| 11 Mar 2024 | 1EdTech Digital Credentials summit review
+| 04 Mar 2024 | No Meeting
+| 26 Feb 2024 | European Digital Micro-Credentials
+| 19 Feb 2024 | Welcome Ildiko, new Co-Chair !
+| 12 Feb 2024 | No Meeting
+| 05 Feb 2024 | No Meeting
 | 16 Oct 2023 | [Plugfest 3 Recap & Review](https://w3c-ccg.github.io/meetings/2023-10-16-vc-education/)
 | 09 Oct 2023 | No Meeting - Plugfest 3
 | 02 Oct 2023 | [Open Wallet Foundation](https://w3c-ccg.github.io/meetings/2023-10-02-vc-education/)
