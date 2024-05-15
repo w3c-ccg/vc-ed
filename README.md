@@ -40,6 +40,7 @@ IRC Chat:
 
 | Date        | Topic |
 |-------------|-------|
+| 13 May 2024 | [Where are we at with standardized trust registries?](https://w3c-ccg.github.io/meetings/2024-05-13-vc-education/)
 | 06 May 2024 | [Projects supporting LERs for learners and employers](https://w3c-ccg.github.io/meetings/2024-05-06-vc-education/)
 | 29 Apr 2024 | No Meeting
 | 22 Apr 2024 | [Reflections from the 2024 Trusted Learner Network Unconference and the Internet identity workshop](https://w3c-ccg.github.io/meetings/2024-04-22-vc-education/)
