@@ -1,4 +1,4 @@
-# vc-ed
+<img width="257" alt="image" src="https://github.com/w3c-ccg/vc-ed/assets/22633736/863bf646-07b3-48ae-8422-494249d0715c"># vc-ed
 
 We encourage contributions meeting the [Contribution Guidelines](CONTRIBUTING.md).  While we prefer the creation of issues and Pull Requests in the GitHub repository, discussions often occur on the [public-credentials](http://lists.w3.org/Archives/Public/public-credentials/) and [public-vc-edu](https://lists.w3.org/Archives/Public/public-vc-edu/) mailing lists as well.
 
@@ -46,14 +46,28 @@ IRC Chat:
 | 15 Apr 2024 | No Meeting
 | 08 Apr 2024 | [European Digital Credentials Infrastructure update](https://w3c-ccg.github.io/meetings/2024-04-08-vc-education/)
 | 01 Apr 2024 | No Meeting
-| 25 Mar 2024 | W3C VC EDU and Employment Credentials
+| 25 Mar 2024 | [W3C VC EDU and Employment Credentials](https://w3c-ccg.github.io/meetings/2024-03-25-vc-education/)
 | 18 Mar 2024 | No Meeting
-| 11 Mar 2024 | 1EdTech Digital Credentials summit review
+| 11 Mar 2024 | [1EdTech Digital Credentials summit review](https://w3c-ccg.github.io/meetings/2024-03-11-vc-education/)
 | 04 Mar 2024 | No Meeting
-| 26 Feb 2024 | European Digital Micro-Credentials
-| 19 Feb 2024 | Welcome Ildiko, new Co-Chair !
+| 26 Feb 2024 | [European Digital Micro-Credentials](https://w3c-ccg.github.io/meetings/2024-02-26-vc-education/)
+| 19 Feb 2024 | [Welcome Ildiko, new Co-Chair !](https://w3c-ccg.github.io/meetings/2024-02-19-vc-education/)
 | 12 Feb 2024 | No Meeting
 | 05 Feb 2024 | No Meeting
+| 29 Jan 2024 | No Meeting
+| 22 Jan 2024 | [DCC new Issuing System](https://w3c-ccg.github.io/meetings/2024-01-22-vc-education/)
+| 15 Jan 2024 | No Meeting
+| 08 Jan 2024 | [Open Agenda](https://w3c-ccg.github.io/meetings/2024-01-08-vc-education/)
+| 01 Jan 2024 | No Meeting
+| 25 Dec 2023 | No Meeting
+| 18 Dec 2023 | No Meeting
+| 04 Dec 2023 | No Meeting
+| 27 Nov 2023 | [Open Agenda](https://w3c-ccg.github.io/meetings/2023-11-27-vc-education/)
+| 20 Nov 2023 | No Meeting
+| 13 Nov 2023 | [Accreditation according to the European Digital Credentials](https://w3c-ccg.github.io/meetings/2023-11-13-vc-education/)
+| 06 Nov 2023 | No Meeting
+| 30 Oct 2023 | [Verifiable Credentials Revocation](https://w3c-ccg.github.io/meetings/2023-10-30-vc-education/)
+| 23 Oct 2023 | [IIW / Open Agenda](https://w3c-ccg.github.io/meetings/2023-10-23-vc-education/)
 | 16 Oct 2023 | [Plugfest 3 Recap & Review](https://w3c-ccg.github.io/meetings/2023-10-16-vc-education/)
 | 09 Oct 2023 | No Meeting - Plugfest 3
 | 02 Oct 2023 | [Open Wallet Foundation](https://w3c-ccg.github.io/meetings/2023-10-02-vc-education/)
