@@ -1,4 +1,4 @@
-<img width="257" alt="image" src="https://github.com/w3c-ccg/vc-ed/assets/22633736/863bf646-07b3-48ae-8422-494249d0715c"># vc-ed
+# vc-ed
 
 We encourage contributions meeting the [Contribution Guidelines](CONTRIBUTING.md).  While we prefer the creation of issues and Pull Requests in the GitHub repository, discussions often occur on the [public-credentials](http://lists.w3.org/Archives/Public/public-credentials/) and [public-vc-edu](https://lists.w3.org/Archives/Public/public-vc-edu/) mailing lists as well.
 
