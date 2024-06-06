@@ -40,6 +40,9 @@ IRC Chat:
 
 | Date        | Topic |
 |-------------|-------|
+| 03 Jun 2024 | [Learning and Employment Record Resume Standard (LER-RS)](https://w3c-ccg.github.io/meetings/2024-06-03-vc-education/)
+| 27 May 2024 | No Meeting
+| 20 May 2024 | No Meeting
 | 13 May 2024 | [Where are we at with standardized trust registries?](https://w3c-ccg.github.io/meetings/2024-05-13-vc-education/)
 | 06 May 2024 | [Projects supporting LERs for learners and employers](https://w3c-ccg.github.io/meetings/2024-05-06-vc-education/)
 | 29 Apr 2024 | No Meeting
