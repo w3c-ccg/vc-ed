@@ -40,6 +40,10 @@ IRC Chat:
 
 | Date        | Topic |
 |-------------|-------|
+| 01 Jul 2024 | [Ask Me Anything about Open Badges 3.0](https://w3c-ccg.github.io/meetings/2024-07-01-vc-education/)
+| 24 Jun 2024 | [Open Agenda](https://w3c-ccg.github.io/meetings/2024-06-24-vc-education/)
+| 17 Jun 2024 | No Meeting
+| 10 Jun 2024 | No Meeting
 | 03 Jun 2024 | [Learning and Employment Record Resume Standard (LER-RS)](https://w3c-ccg.github.io/meetings/2024-06-03-vc-education/)
 | 27 May 2024 | No Meeting
 | 20 May 2024 | No Meeting
