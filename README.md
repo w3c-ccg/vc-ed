@@ -40,6 +40,8 @@ IRC Chat:
 
 | Date        | Topic |
 |-------------|-------|
+| 23 Sep 2024 | [Micro-Credentials from a University Alliance](https://w3c-ccg.github.io/meetings/2024-09-23-vc-education/)
+| 16 Sep 2024 | [Bridging Schemas & Translating Data](https://w3c-ccg.github.io/meetings/2024-09-16-vc-education/)
 | 01 Jul 2024 | [Ask Me Anything about Open Badges 3.0](https://w3c-ccg.github.io/meetings/2024-07-01-vc-education/)
 | 24 Jun 2024 | [Open Agenda](https://w3c-ccg.github.io/meetings/2024-06-24-vc-education/)
 | 17 Jun 2024 | No Meeting
