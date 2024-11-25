@@ -40,6 +40,15 @@ IRC Chat:
 
 | Date        | Topic |
 |-------------|-------|
+| 25 Nov 2024 | No Meeting
+| 18 Nov 2024 | [OpenBadges v3 Extension Mechanism + "Area of Study" Degree extension + Multi-Lingual credentials discussion](https://w3c-ccg.github.io/meetings/2024-11-18-vc-education/)
+| 11 Nov 2024 | [GAN (Global Acceptance Network) - Trust registries discussion](https://w3c-ccg.github.io/meetings/2024-11-11-vc-education/)
+| 04 Nov 2024 | No Meeting
+| 28 Oct 2024 | [Future of Learning & Working track's Office Hour](https://w3c-ccg.github.io/meetings/2024-10-28-vc-education/)
+| 21 Oct 2024 | No Meeting
+| 14 Oct 2024 | No Meeting
+| 07 Oct 2024 | [DIF Hackathon: Future of Learning and Working Track](https://w3c-ccg.github.io/meetings/2024-10-07-vc-education/)
+| 30 Sep 2024 | No Meeting
 | 23 Sep 2024 | [Micro-Credentials from a University Alliance](https://w3c-ccg.github.io/meetings/2024-09-23-vc-education/)
 | 16 Sep 2024 | [Bridging Schemas & Translating Data](https://w3c-ccg.github.io/meetings/2024-09-16-vc-education/)
 | 01 Jul 2024 | [Ask Me Anything about Open Badges 3.0](https://w3c-ccg.github.io/meetings/2024-07-01-vc-education/)
