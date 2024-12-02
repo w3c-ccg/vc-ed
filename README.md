@@ -40,6 +40,7 @@ IRC Chat:
 
 | Date        | Topic |
 |-------------|-------|
+| 02 Dec 2024 | [Area of Study + Multilingualism in European Digital Credentials](https://w3c-ccg.github.io/meetings/2024-12-02-vc-education/)
 | 25 Nov 2024 | No Meeting
 | 18 Nov 2024 | [OpenBadges v3 Extension Mechanism + "Area of Study" Degree extension + Multi-Lingual credentials discussion](https://w3c-ccg.github.io/meetings/2024-11-18-vc-education/)
 | 11 Nov 2024 | [GAN (Global Acceptance Network) - Trust registries discussion](https://w3c-ccg.github.io/meetings/2024-11-11-vc-education/)
