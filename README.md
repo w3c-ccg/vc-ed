@@ -40,6 +40,9 @@ IRC Chat:
 
 | Date        | Topic |
 |-------------|-------|
+| 06 Jan 2025 | No Meeting
+| 30 Dec 2024 | No Meeting
+| 23 Dec 2024 | No Meeting
 | 16 Dec 2024 | [Open Agenda](https://w3c-ccg.github.io/meetings/2024-12-16-vc-education/)
 | 09 Dec 2024 | No Meeting
 | 02 Dec 2024 | [Area of Study + Multilingualism in European Digital Credentials](https://w3c-ccg.github.io/meetings/2024-12-02-vc-education/)
