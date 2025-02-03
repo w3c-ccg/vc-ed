@@ -40,6 +40,8 @@ IRC Chat:
 
 | Date        | Topic |
 |-------------|-------|
+| 27 Jan 2025 | [Open Agenda](https://w3c-ccg.github.io/meetings/2025-01-27-vc-education/)
+| 20 Jan 2025 | No Meeting
 | 13 Jan 2025 | [Wallet Segmentation and Credentials Management](https://w3c-ccg.github.io/meetings/2025-01-13-vc-education/)
 | 06 Jan 2025 | No Meeting
 | 30 Dec 2024 | No Meeting
