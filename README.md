@@ -40,6 +40,10 @@ IRC Chat:
 
 | Date        | Topic |
 |-------------|-------|
+| 24 Feb 2025 | [ASU Pocket + DCC collaboration](https://w3c-ccg.github.io/meetings/2025-02-24-vc-education/)
+| 17 Feb 2025 | No Meeting
+| 10 Feb 2025 | No Meeting
+| 03 Feb 2025 | No Meeting
 | 27 Jan 2025 | [Open Agenda](https://w3c-ccg.github.io/meetings/2025-01-27-vc-education/)
 | 20 Jan 2025 | No Meeting
 | 13 Jan 2025 | [Wallet Segmentation and Credentials Management](https://w3c-ccg.github.io/meetings/2025-01-13-vc-education/)
