@@ -40,6 +40,10 @@ IRC Chat:
 
 | Date        | Topic |
 |-------------|-------|
+| 24 Mar 2025 | [Verifiable Credentials Wallets in a Skills-First Talent Marketplace](https://w3c-ccg.github.io/meetings/2025-03-24-vc-education/)
+| 17 Mar 2025 | No Meeting
+| 10 Mar 2025 | No Meeting
+| 03 Mar 2025 | No Meeting
 | 24 Feb 2025 | [ASU Pocket + DCC collaboration](https://w3c-ccg.github.io/meetings/2025-02-24-vc-education/)
 | 17 Feb 2025 | No Meeting
 | 10 Feb 2025 | No Meeting
