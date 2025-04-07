@@ -37,6 +37,7 @@ We meet Mondays at 8am PDT / 11am EDT / 4pm BST / 5pm CEST. [More Timezones](htt
 
 | Date        | Topic |
 |-------------|-------|
+| 07 Apr 2025 | No Meeting
 | 31 Mar 2025 | [Registries 101](https://w3c-ccg.github.io/meetings/2025-03-31-vc-education/)
 | 24 Mar 2025 | [Verifiable Credentials Wallets in a Skills-First Talent Marketplace](https://w3c-ccg.github.io/meetings/2025-03-24-vc-education/)
 | 17 Mar 2025 | No Meeting
