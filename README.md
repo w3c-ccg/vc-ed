@@ -22,7 +22,7 @@ We meet Mondays at 8am PDT / 11am EDT / 4pm BST / 5pm CEST. [More Timezones](htt
 <a target="_blank" href="https://calendar.google.com/calendar/u/0/embed?src=public.vc.edu@gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
 
 ## Meeting link
-[meet.google.com/kte-hamg-bpj](meet.google.com/kte-hamg-bpj)
+[meet.google.com/kte-hamg-bpj](https://meet.google.com/kte-hamg-bpj)
 
 ## Work Items
 - [VC EDU Use Cases](https://w3c-ccg.github.io/vc-ed-use-cases/)
