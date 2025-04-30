@@ -37,6 +37,8 @@ We meet Mondays at 8am PDT / 11am EDT / 4pm BST / 5pm CEST. [More Timezones](htt
 
 | Date        | Topic |
 |-------------|-------|
+| 28 Apr 2025 | No Meeting
+| 21 Apr 2025 | No Meeting
 | 14 Apr 2025 | [IIW report](https://w3c-ccg.github.io/meetings/2025-04-14-vc-education/)
 | 07 Apr 2025 | No Meeting
 | 31 Mar 2025 | [Registries 101](https://w3c-ccg.github.io/meetings/2025-03-31-vc-education/)
