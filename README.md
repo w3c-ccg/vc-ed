@@ -37,6 +37,7 @@ We meet Mondays at 8am PDT / 11am EDT / 4pm BST / 5pm CEST. [More Timezones](htt
 
 | Date        | Topic |
 |-------------|-------|
+| 26 May 2025 | No Meeting
 | 19 May 2025 | [Quality Link](https://lists.w3.org/Archives/Public/public-credentials/2025May/0070.html)
 | 12 May 2025 | [Advanced Topics in Verifiable Credentials (Uniqueness, Duplicates, and Deleting)](https://lists.w3.org/Archives/Public/public-credentials/2025May/0051.html)
 | 05 May 2025 | No Meeting
