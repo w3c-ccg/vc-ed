@@ -37,6 +37,19 @@ We meet Mondays at 8am PDT / 11am EDT / 4pm BST / 5pm CEST. [More Timezones](htt
 
 | Date        | Topic |
 |-------------|-------|
+| 08 Sep 2025 | No Meeting
+| 01 Sep 2025 | No Meeting
+| 25 Aug 2025 | No Meeting
+| 18 Aug 2025 | No Meeting
+| 11 Aug 2025 | No Meeting
+| 04 Aug 2025 | No Meeting
+| 28 Jul 2025 | No Meeting
+| 21 Jul 2025 | No Meeting
+| 14 Jul 2025 | No Meeting
+| 07 Jul 2025 | No Meeting
+| 30 Jun 2025 | No Meeting
+| 23 Jun 2025 | No Meeting
+| 16 Jun 2025 | No Meeting
 | 09 Jun 2025 | [EDC / ELM update](https://lists.w3.org/Archives/Public/public-credentials/2025Jun/0057.html)
 | 02 Jun 2025 | No Meeting
 | 26 May 2025 | No Meeting
