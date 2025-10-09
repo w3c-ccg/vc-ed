@@ -37,7 +37,8 @@ We meet Mondays at 8am PDT / 11am EDT / 4pm BST / 5pm CEST. [More Timezones](htt
 
 | Date        | Topic |
 |-------------|-------|
-| 29 Sep 2025 | A proposed technical definition of "credential wallets". Also, can we give them a better name?
+| 06 Oct 2025 | Self-Issued Credentials discussion
+| 29 Sep 2025 | [A proposed technical definition of "credential wallets". Also, can we give them a better name?](https://lists.w3.org/Archives/Public/public-credentials/2025Oct/0004.html)
 | 22 Sep 2025 | No Meeting
 | 15 Sep 2025 | [Welcome back](https://lists.w3.org/Archives/Public/public-credentials/2025Sep/0048.html)
 | 08 Sep 2025 | No Meeting
