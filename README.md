@@ -37,6 +37,8 @@ We meet Mondays at 8am PDT / 11am EDT / 4pm BST / 5pm CEST. [More Timezones](htt
 
 | Date        | Topic |
 |-------------|-------|
+| 27 Oct 2025 | IIW Report
+| 20 Oct 2025 | No Meeting
 | 13 Oct 2025 | No Meeting
 | 06 Oct 2025 | [Self-Issued Credentials discussion](https://lists.w3.org/Archives/Public/public-credentials/2025Oct/0021.html)
 | 29 Sep 2025 | [A proposed technical definition of "credential wallets". Also, can we give them a better name?](https://lists.w3.org/Archives/Public/public-credentials/2025Oct/0004.html)
