@@ -37,6 +37,9 @@ We meet Mondays at 8am PDT / 11am EDT / 4pm BST / 5pm CEST. [More Timezones](htt
 
 | Date        | Topic |
 |-------------|-------|
+| 17 Nov 2025 | [Velocert](https://lists.w3.org/Archives/Public/public-credentials/2025Nov/0032.html)
+| 10 Nov 2025 | No Meeting
+| 03 Nov 2025 | No Meeting
 | 27 Oct 2025 | [IIW Report](https://lists.w3.org/Archives/Public/public-credentials/2025Oct/0046.html)
 | 20 Oct 2025 | No Meeting
 | 13 Oct 2025 | No Meeting
