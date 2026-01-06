@@ -37,6 +37,13 @@ We meet Mondays at 8am PDT / 11am EDT / 4pm BST / 5pm CEST. [More Timezones](htt
 
 | Date        | Topic |
 |-------------|-------|
+| 05 Jan 2025 | No Meeting
+| 29 Dec 2025 | No Meeting
+| 22 Dec 2025 | No Meeting
+| 15 Dec 2025 | CLR interoperability with Diploma Supplement
+| 08 Dec 2025 | No Meeting
+| 01 Dec 2025 | No Meeting
+| 24 Nov 2025 | No Meeting
 | 17 Nov 2025 | [Velocert](https://lists.w3.org/Archives/Public/public-credentials/2025Nov/0032.html)
 | 10 Nov 2025 | No Meeting
 | 03 Nov 2025 | No Meeting
