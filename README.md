@@ -37,6 +37,10 @@ We meet Mondays at 8am PDT / 11am EDT / 4pm BST / 5pm CEST. [More Timezones](htt
 
 | Date        | Topic |
 |-------------|-------|
+| 02 Feb 2025 | [Future Work and Remaining Challenges in Verifiable Credentials and Office Hours Discussion](https://docs.google.com/presentation/d/1H7wDFkPHMEREeTY14ZKo2irZm5HDrLqfA9uTBS8aKsc/)
+| 26 Jan 2025 | No Meeting
+| 19 Jan 2025 | No Meeting
+| 12 Jan 2025 | No Meeting
 | 05 Jan 2025 | No Meeting
 | 29 Dec 2025 | No Meeting
 | 22 Dec 2025 | No Meeting
