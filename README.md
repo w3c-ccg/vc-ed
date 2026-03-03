@@ -37,11 +37,15 @@ We meet Mondays at 8am PDT / 11am EDT / 4pm BST / 5pm CEST. [More Timezones](htt
 
 | Date        | Topic |
 |-------------|-------|
-| 02 Feb 2025 | [Future Work and Remaining Challenges in Verifiable Credentials and Office Hours Discussion](https://docs.google.com/presentation/d/1H7wDFkPHMEREeTY14ZKo2irZm5HDrLqfA9uTBS8aKsc/)
-| 26 Jan 2025 | No Meeting
-| 19 Jan 2025 | No Meeting
-| 12 Jan 2025 | No Meeting
-| 05 Jan 2025 | No Meeting
+| 02 Mar 2026 | No Meeting
+| 23 Feb 2026 | [Notes from the Digital Credentials Summit 2026 - 1EdTech](https://lists.w3.org/Archives/Public/public-credentials/2026Feb/0299.html)
+| 16 Feb 2026 | No Meeting
+| 09 Feb 2026 | No Meeting
+| 02 Feb 2026 | [Future Work and Remaining Challenges in Verifiable Credentials and Office Hours Discussion](https://docs.google.com/presentation/d/1H7wDFkPHMEREeTY14ZKo2irZm5HDrLqfA9uTBS8aKsc/)
+| 26 Jan 2026 | No Meeting
+| 19 Jan 2026 | No Meeting
+| 12 Jan 2026 | No Meeting
+| 05 Jan 2026 | No Meeting
 | 29 Dec 2025 | No Meeting
 | 22 Dec 2025 | No Meeting
 | 15 Dec 2025 | CLR interoperability with Diploma Supplement
